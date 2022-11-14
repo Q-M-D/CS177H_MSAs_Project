@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/public/home/cs177h/zhujl/project/transformer.py", line 119, in <module>
+    mul_transform(get_info(0), 0, 2)
+  File "/public/home/cs177h/zhujl/project/transformer.py", line 106, in mul_transform
+    matrix_mid += matrix[0][0][i].tolist()
+IndexError: index 194 is out of bounds for dimension 0 with size 194
