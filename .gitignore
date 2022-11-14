@@ -1,9 +1,8 @@
 # ignore folders test, test_transform, train, train_transform
 # ignore files run.slurm and *.tar
 *.tar
-run.slurm
-test/
-test_transform/
-train/
-train_transform/
-
+# run.slurm
+src/test/
+src/test_transform/
+src/train/
+src/train_transform/

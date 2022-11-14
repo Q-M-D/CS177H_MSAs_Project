@@ -30,9 +30,9 @@ class MLP(nn.Module):
 
 def get_info(is_train):
     if is_train:
-        f = open('./train_set.txt')
+        f = open('./src/train_set.txt')
     else:
-        f = open('./test_set.txt')
+        f = open('./src/test_set.txt')
     data = {}
     for line in f:
         if line != '':
@@ -48,8 +48,8 @@ def read_data_train(version=1):
     # get the train data
     data = get_info(1)
     for item in data:
-        if os.path.exists("./train_transform/version" + str(version) + "/" + item + ".txt"):
-            file = open("./train_transform/version" + str(version) + "/" + item + ".txt")
+        if os.path.exists("./src/train_transform/version" + str(version) + "/" + item + ".txt"):
+            file = open("./src/train_transform/version" + str(version) + "/" + item + ".txt")
             tmp = []
             for line in file:
                 tmp = line.replace('[', '').replace(']', '').replace(' ', '').split(',')
@@ -64,8 +64,8 @@ def read_data_test(version=1):
     # get the test data
     data = get_info(0)
     for item in data:
-        if os.path.exists("./test_transform/version" + str(version) + "/" + item + ".txt"):
-            file = open("./test_transform/version" + str(version) + "/" + item + ".txt")
+        if os.path.exists("./src/test_transform/version" + str(version) + "/" + item + ".txt"):
+            file = open("./src/test_transform/version" + str(version) + "/" + item + ".txt")
             tmp = []
             for line in file:
                 tmp = line.replace('[', '').replace(']', '').replace(' ', '').split(',')
