@@ -93,7 +93,7 @@ def mul_transform(data, is_train, version=1):
         # version 1: negelect big sequences
         elif version == 1:
             if np.shape(tmp)[0] < 256:
-                matrix = transform(tmp)                
+                matrix = transform(tmp)
                 output = matrix[0][0][0].tolist()
                 print(matrix.shape)
                 
@@ -101,7 +101,7 @@ def mul_transform(data, is_train, version=1):
             else:
                 print("too big")
                 continue
-        
+
         # version 2: output by calculating the average float number for each element
         elif version == 2:
             tmp = tmp[:256]

@@ -29,7 +29,6 @@ class Linear_Regression:
         self.learing_rate = 0.0001
 
 
-    # You need use Gradient Descent to update weights by yourself
     def update_coeffs(self):
         Y = self.Y
         Y_pred = self.predict()
@@ -54,7 +53,6 @@ class Linear_Regression:
 
 def split_train_test(data, test_ratio):
     np.random.seed(42)
-    #### Your Code Below ####
     shuffled_indices = np.random.permutation(len(data))
     test_set_size = int(len(data) * test_ratio)
     test_indices = shuffled_indices[:test_set_size]
