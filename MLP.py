@@ -23,8 +23,8 @@ class MLP(nn.Module):
         # self.net = [nn.Linear(self.in_dims[i], self.out_dims[i]) for i in range(self.layers)]
         # self.net = nn.Sequential(*self.net)
         
-        self.fc1 = nn.Linear(768, 256)
-        self.fc4 = nn.Linear(256, 1)
+        self.fc1 = nn.Linear(768, 512)
+        self.fc4 = nn.Linear(512, 1)
     
     
     def encode(self, x):
