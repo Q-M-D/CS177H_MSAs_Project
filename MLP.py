@@ -2,6 +2,7 @@ import torch
 import numpy as np
 from torch import nn
 import os
+import esm
 
 import torchvision.transforms as transforms
 import torch.nn as nn
@@ -15,6 +16,10 @@ class MLP(nn.Module):
     def __init__(self, layers = 2):
         super(MLP, self).__init__()
         
+        # self.encoder, _ = esm.pretrained.esm_msa1_t12_100M_UR50S()
+        # self.encoder = self.encoder.eval()
+        
+        
         # self.layers = layers
         # tmp = [(4 ** (layers - i)) for i in range(layers-1)]
         # self.in_dims = [768] + tmp
@@ -23,22 +28,32 @@ class MLP(nn.Module):
         # self.net = [nn.Linear(self.in_dims[i], self.out_dims[i]) for i in range(self.layers)]
         # self.net = nn.Sequential(*self.net)
         
-        self.fc1 = nn.Linear(768, 512)
-        self.fc4 = nn.Linear(512, 1)
+        # self.fc1 = nn.Linear(768, 256)
+        # self.fc2 = nn.Linear(256, 128)
+        # self.fc3 = nn.Linear(128, 1)
+        
+        self.fc1 = nn.Linear(768, 16)
+        self.fc2 = nn.Linear(16, 1)
+        
     
     
     def encode(self, x):
+        # x = F.relu(self.fc1(x))
+        # x = F.relu(self.fc2(x))
+        # x = nn.Sigmoid(self.fc3(x))
+        
         x = F.relu(self.fc1(x))
-        x = self.fc4(x)
+        x = torch.sigmoid(self.fc2(x))
         return x
     
     def forward(self, x):
         x = self.encode(x)
         # for i in range(self.layers):
         #     if i == self.layers - 1:
-        #         x = torch.sigmoid(self.net[i](x)) * 100 # for regrading
+        #         x = self.net[i](x) # for regrading
         #     else: 
         #         x = F.relu(self.net[i](x))
+        
         return x
 
 
@@ -95,28 +110,30 @@ def save_model(model, version):
 if __name__ == "__main__":
     # print(1)
     X, Y = read_data_train(train_version)
+    
     # init the MLP model
     model = MLP()
     # init the loss function
-    criterion = nn.MSELoss(reduction="mean")
+    criterion = nn.MSELoss(reduction="sum")
     # number of epochs to train the model
-    n_epochs = 200
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.01)
+    n_epochs = 20
+    optimizer = torch.optim.Adam(model.parameters(), lr=0.0001)
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     model.to(device)
     # training and testing
     for epoch in range(n_epochs):
         train_loss = 0.0
         for x in range(len(X)):
-            inputs = torch.from_numpy(np.array(X[x])).float().to(device)
-            gt = torch.from_numpy(np.array(Y[x])).float().to(device)
-            optimizer.zero_grad()
-            output = model(inputs)
-            # print(output, torch.tensor(Y[x]).float())
-            loss = criterion(output, gt)
-            loss.backward()
-            optimizer.step()
-            train_loss += loss.item()
+            for y in range(x+1, len(X)):
+                inputs = torch.from_numpy(np.array(X[x])).float().to(device)
+                actual_score = torch.from_numpy(np.array(Y[x]/100.0)).float().to(device)
+                optimizer.zero_grad()
+                output = model(inputs)
+                # print(output, torch.tensor(Y[x]).float())
+                loss = criterion(output, actual_score)
+                loss.backward()
+                optimizer.step()
+                train_loss += loss.item()
             
         train_loss = train_loss/len(X)
         print('Epoch: {} \tTraining Loss: {:.6f}'.format(

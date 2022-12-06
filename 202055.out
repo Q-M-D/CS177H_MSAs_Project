@@ -1,0 +1,26 @@
+Epoch: 0 	Training Loss: 1505.210150
+Epoch: 1 	Training Loss: 499.970819
+Epoch: 2 	Training Loss: 413.089798
+Epoch: 3 	Training Loss: 360.041496
+Epoch: 4 	Training Loss: 327.713866
+Epoch: 5 	Training Loss: 307.164859
+Epoch: 6 	Training Loss: 293.208497
+Epoch: 7 	Training Loss: 283.059942
+Epoch: 8 	Training Loss: 275.134563
+Epoch: 9 	Training Loss: 268.559348
+Epoch: 10 	Training Loss: 262.925063
+Epoch: 11 	Training Loss: 257.868166
+Epoch: 12 	Training Loss: 253.237904
+Epoch: 13 	Training Loss: 248.960039
+Epoch: 14 	Training Loss: 244.956815
+Epoch: 15 	Training Loss: 241.165140
+Epoch: 16 	Training Loss: 237.575704
+Epoch: 17 	Training Loss: 234.171476
+Epoch: 18 	Training Loss: 230.913590
+Epoch: 19 	Training Loss: 227.802531
+Number of training 20
+Pass rate:0.7937621832358674
+Train version: 2
+Test version: 2
+
+0.0001

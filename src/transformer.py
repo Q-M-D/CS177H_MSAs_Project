@@ -44,8 +44,8 @@ def transform(data):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model, alphabet = esm.pretrained.esm_msa1b_t12_100M_UR50S()
     batch_converter = alphabet.get_batch_converter()
-    model.to(device)
     model.eval()
+    model.to(device)
     _, _, batch_tokens = batch_converter(data)
     batch_tokens = batch_tokens.to(device)
     with torch.no_grad():
