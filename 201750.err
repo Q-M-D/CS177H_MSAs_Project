@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "/public/home/cs177h/zhujl/project/src/transformer.py", line 133, in <module>
-    mul_transform(get_info(0), 0, 2)
-  File "/public/home/cs177h/zhujl/project/src/transformer.py", line 31, in get_info
-    f = open('./test_set.txt')
-FileNotFoundError: [Errno 2] No such file or directory: './test_set.txt'

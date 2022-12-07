@@ -7,8 +7,9 @@ import torchvision.transforms as transforms
 import torch.nn as nn
 import torch.nn.functional as F
 
-train_version = 0
-test_version = 0
+train_version = 3
+test_version = 3
+attempt = 1
 
 
 class MLP(nn.Module):
@@ -24,11 +25,13 @@ class MLP(nn.Module):
         # self.net = nn.Sequential(*self.net)
         
         self.fc1 = nn.Linear(768, 512)
-        self.fc4 = nn.Linear(512, 1)
+        self.fc2 = nn.Linear(512, 256)
+        self.fc4 = nn.Linear(256, 1)
     
     
     def encode(self, x):
         x = F.relu(self.fc1(x))
+        x = F.relu(self.fc2(x))
         x = self.fc4(x)
         return x
     
@@ -89,8 +92,43 @@ def read_data_test(version=1):
     return x_test, y_test
 
 # save the model by version
-def save_model(model, version):
-    torch.save(model.state_dict(), "./model/version" + str(version) + ".pt")
+def save_model(model, version, attempt, id):
+    torch.save(model.state_dict(), "./src/model/version" + str(version) + "_" + str(attempt)+ "_" + str(id) + ".pth")
+    
+def test(X, Y, id):
+    # print(len(X), len(Y))
+    X, Y = read_data_test(test_version)
+    passn = 0
+    total = len(X)*(len(X)-1)/2
+    # for x in range(len(X)):
+    #     for y in range(x+1, len(X)):
+    x = 0
+    while x < len(X):
+        y = x + 1
+        inputs1 = torch.from_numpy(np.array(X[x])).float().to(device)
+        inputs2 = torch.from_numpy(np.array(X[y])).float().to(device)
+        out1 = model(inputs1).cpu().detach().numpy()
+        out2 = model(inputs2).cpu().detach().numpy()
+        train_out = (out1 >= out2)
+        test_out = (Y[x] >= Y[y])
+        if ((train_out and test_out) or (not train_out and not test_out)):
+            passn += 1
+        # elif(epoch >=30):
+        #     # print wrong test case and its score
+        #     print("Expect out score " + str(x) +":" + str(Y[x]) + " " + str(y) + ":" + str(Y[y]))
+        #     print("Wrong out score: " + str(out1) + " " + str(out2))
+        x += 2
+
+    print("Number of training " + str(id))
+    print("Pass rate:" + str(passn/total))
+
+
+    save_model(model, train_version,attempt, id)
+    # save_model(model, 9)
+
+    # print train_version and test_version
+    print("Train version: " + str(train_version))
+    print("Test version: " + str(test_version))
 
 if __name__ == "__main__":
     # print(1)
@@ -100,16 +138,16 @@ if __name__ == "__main__":
     # init the loss function
     criterion = nn.MSELoss(reduction="mean")
     # number of epochs to train the model
-    n_epochs = 200
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.01)
+    n_epochs = 50
+    optimizer = torch.optim.Adam(model.parameters(), lr=0.00003)
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     model.to(device)
     # training and testing
-    for epoch in range(n_epochs):
+    for epoch in range(n_epochs+1):
         train_loss = 0.0
         for x in range(len(X)):
             inputs = torch.from_numpy(np.array(X[x])).float().to(device)
-            gt = torch.from_numpy(np.array(Y[x])).float().to(device)
+            gt = torch.from_numpy(np.array(Y[x]/100.0)).float().to(device)
             optimizer.zero_grad()
             output = model(inputs)
             # print(output, torch.tensor(Y[x]).float())
@@ -123,33 +161,11 @@ if __name__ == "__main__":
             epoch, 
             train_loss
             ))
-        if train_loss < 1:
+        if epoch % 10 == 0:
+            test(X, Y, epoch)
+        if train_loss < 0.0001:
             break
     # X is a list of input file names
     # Y is the corresponding list of output scores
     X, Y = read_data_test(test_version)
 
-    # print(len(X), len(Y))
-    passn = 0
-    total = len(X)*(len(X)-1)/2
-    for x in range(len(X)):
-        for y in range(x+1, len(X)):
-            inputs1 = torch.from_numpy(np.array(X[x])).float().to(device)
-            inputs2 = torch.from_numpy(np.array(X[y])).float().to(device)
-            out1 = model(inputs1).cpu().detach().numpy()
-            out2 = model(inputs2).cpu().detach().numpy()
-            train_out = (out1 >= out2)
-            test_out = (Y[x] >= Y[y])
-            if ((train_out and test_out) or (not train_out and not test_out)):
-                passn += 1
-
-    print("Number of training " + str(n_epochs))
-    print("Pass rate:" + str(passn/total))
-
-
-    save_model(model, train_version)
-    # save_model(model, 9)
-
-    # print train_version and test_version
-    print("Train version: " + str(train_version))
-    print("Test version: " + str(test_version))

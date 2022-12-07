@@ -67,16 +67,28 @@ def write_transform_output(item, is_train, output,version):
 
 def mul_transform(data, is_train, version=1):
     for item in data:
-        if is_train:
-            tmp = translate("./train/" + item + ".a3m")
-            if os.path.exists("./train_transform/version" + str(version) + "/"+ item + ".txt"):
-                print(item + " already exist")
-                continue
-        else:
-            tmp = translate("./test/" + item + ".a3m")
-            if os.path.exists("./test_transform/version" + str(version) + "/"+ item + ".txt"):
-                print(item + " exist")
-                continue
+        if version == 3:
+            if is_train:
+                tmp = translate("./train_hhfilter/" + item + ".a3m")
+                if os.path.exists("./train_transform/version" + str(version) + "/"+ item + ".txt"):
+                    print(item + " already exist")
+                    continue
+            else:
+                tmp = translate("./test_hhfilter/" + item + ".a3m")
+                if os.path.exists("./test_transform/version" + str(version) + "/"+ item + ".txt"):
+                    print(item + " exist")
+                    continue
+        elif version == 0 or version == 1 or version == 2:
+            if is_train:
+                tmp = translate("./train/" + item + ".a3m")
+                if os.path.exists("./train_transform/version" + str(version) + "/"+ item + ".txt"):
+                    print(item + " already exist")
+                    continue
+            else:
+                tmp = translate("./test/" + item + ".a3m")
+                if os.path.exists("./test_transform/version" + str(version) + "/"+ item + ".txt"):
+                    print(item + " exist")
+                    continue
         print(item + " begin:")
         print(np.shape(tmp))
         
@@ -116,7 +128,14 @@ def mul_transform(data, is_train, version=1):
             output = output.tolist()
             write_transform_output(item, is_train, output, version)
             # os._exit(0)
-
+            
+        elif version == 3:
+            tmp = tmp[:256]
+            matrix = transform(tmp)
+            output = matrix[0][0][0].tolist()
+            print(matrix.shape)
+            
+            write_transform_output(item, is_train, output,version)
 
 
 # data , is_train , version
@@ -130,8 +149,12 @@ def mul_transform(data, is_train, version=1):
 # mul_transform(get_info(0), 0, 1)
 
 # version2 take first 256 sequences and calculate average
-mul_transform(get_info(0), 0, 2)
-mul_transform(get_info(1), 1, 2)
+# mul_transform(get_info(0), 0, 2)
+# mul_transform(get_info(1), 1, 2)
+
+# version3 hhfilter and take first 256 sequences
+mul_transform(get_info(0), 0, 3)
+mul_transform(get_info(1), 1, 3)
 
 
 # def hamming_distance_calculate(a, b, length):
