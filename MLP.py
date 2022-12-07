@@ -148,7 +148,7 @@ if __name__ == "__main__":
         train_loss = 0.0
         for x in range(len(X)):
             inputs = torch.from_numpy(np.array(X[x])).float().to(device)
-            gt = torch.from_numpy(np.array(Y[x]/100.0)).float().to(device)
+            gt = torch.from_numpy(np.array(Y[x])).float().to(device)
             optimizer.zero_grad()
             output = model(inputs)
             # print(output, torch.tensor(Y[x]).float())
