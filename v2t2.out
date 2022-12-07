@@ -1,0 +1,56 @@
+/public/home/cs177h/zhujl/miniconda3/envs/cs177/lib/python3.10/site-packages/torch/nn/modules/loss.py:536: UserWarning: Using a target size (torch.Size([])) that is different to the input size (torch.Size([1])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.mse_loss(input, target, reduction=self.reduction)
+Epoch: 0        Training Loss: 0.031866
+Epoch: 1        Training Loss: 0.024862
+Epoch: 2        Training Loss: 0.021890
+Epoch: 3        Training Loss: 0.019853
+Epoch: 4        Training Loss: 0.018528
+Epoch: 5        Training Loss: 0.017037
+Epoch: 6        Training Loss: 0.015329
+Epoch: 7        Training Loss: 0.014228
+Epoch: 8        Training Loss: 0.013038
+Epoch: 9        Training Loss: 0.011996
+Epoch: 10       Training Loss: 0.011125
+Epoch: 11       Training Loss: 0.010401
+Epoch: 12       Training Loss: 0.009916
+Epoch: 13       Training Loss: 0.009360
+Epoch: 14       Training Loss: 0.008841
+Epoch: 15       Training Loss: 0.008490
+Epoch: 16       Training Loss: 0.007856
+Epoch: 17       Training Loss: 0.007672
+Epoch: 18       Training Loss: 0.007274
+Epoch: 19       Training Loss: 0.007049
+Epoch: 20       Training Loss: 0.006546
+Epoch: 21       Training Loss: 0.006419
+Epoch: 22       Training Loss: 0.006115
+Epoch: 23       Training Loss: 0.005889
+Epoch: 24       Training Loss: 0.005664
+Epoch: 25       Training Loss: 0.005357
+Epoch: 26       Training Loss: 0.005344
+Epoch: 27       Training Loss: 0.005090
+Epoch: 28       Training Loss: 0.004941
+Epoch: 29       Training Loss: 0.004798
+Epoch: 30       Training Loss: 0.004715
+Epoch: 31       Training Loss: 0.004413
+Epoch: 32       Training Loss: 0.004356
+Epoch: 33       Training Loss: 0.004222
+Epoch: 34       Training Loss: 0.004015
+Epoch: 35       Training Loss: 0.003979
+Epoch: 36       Training Loss: 0.003871
+Epoch: 37       Training Loss: 0.003892
+Epoch: 38       Training Loss: 0.003672
+Epoch: 39       Training Loss: 0.003667
+Epoch: 40       Training Loss: 0.003465
+Epoch: 41       Training Loss: 0.003438
+Epoch: 42       Training Loss: 0.003267
+Epoch: 43       Training Loss: 0.003357
+Epoch: 44       Training Loss: 0.003172
+Epoch: 45       Training Loss: 0.003009
+Epoch: 46       Training Loss: 0.003098
+Epoch: 47       Training Loss: 0.003015
+Epoch: 48       Training Loss: 0.003091
+Epoch: 49       Training Loss: 0.002959
+Number of training 50
+Pass rate:0.8262322472848789
+Train version: 2
+Test version: 2

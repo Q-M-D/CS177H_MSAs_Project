@@ -99,7 +99,7 @@ def test(X, Y, id):
     # print(len(X), len(Y))
     X, Y = read_data_test(test_version)
     passn = 0
-    total = len(X)*(len(X)-1)/2
+    total = 0
     # for x in range(len(X)):
     #     for y in range(x+1, len(X)):
     x = 0
@@ -113,11 +113,12 @@ def test(X, Y, id):
         test_out = (Y[x] >= Y[y])
         if ((train_out and test_out) or (not train_out and not test_out)):
             passn += 1
-        # elif(epoch >=30):
-        #     # print wrong test case and its score
-        #     print("Expect out score " + str(x) +":" + str(Y[x]) + " " + str(y) + ":" + str(Y[y]))
-        #     print("Wrong out score: " + str(out1) + " " + str(out2))
+        elif(epoch >=3):
+            # print wrong test case and its score
+            print("Expect out score " + str(x) +":" + str(Y[x]) + " " + str(y) + ":" + str(Y[y]))
+            print("Wrong out score: " + str(out1) + " " + str(out2))
         x += 2
+        total += 1
 
     print("Number of training " + str(id))
     print("Pass rate:" + str(passn/total))
@@ -138,8 +139,8 @@ if __name__ == "__main__":
     # init the loss function
     criterion = nn.MSELoss(reduction="mean")
     # number of epochs to train the model
-    n_epochs = 50
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.00003)
+    n_epochs = 10
+    optimizer = torch.optim.Adam(model.parameters(), lr=0.0001)
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     model.to(device)
     # training and testing
@@ -161,8 +162,8 @@ if __name__ == "__main__":
             epoch, 
             train_loss
             ))
-        if epoch % 10 == 0:
-            test(X, Y, epoch)
+        # if epoch % 2== 0:
+        test(X, Y, epoch)
         if train_loss < 0.0001:
             break
     # X is a list of input file names

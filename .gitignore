@@ -6,3 +6,5 @@ src/test/
 src/test_transform/
 src/train/
 src/train_transform/
+src/test_hhfilter/
+src/train_hhfilter/
