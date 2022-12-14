@@ -12,7 +12,8 @@ import sys, getopt
 
 TRAIN_VERSION = 3
 TEST_VERSION = 3
-MODEL_PATH = "./src/model/version3/3_324.pth"
+MODEL_PATH = "../src/model/version3/3_324.pth"
+INPUT_PATH = "./data_change_transform/"
 METHOD = "MLP"
 PWC = True
 CN2 = False
@@ -53,6 +54,38 @@ class MLP(nn.Module):
         x = torch.sigmoid(x) * 100
 
         return x
+    
+# class MLP(nn.Module):
+#     def __init__(self, layers = 2):
+#         super(MLP, self).__init__()
+        
+#         # self.layers = layers
+#         # tmp = [(4 ** (layers - i)) for i in range(layers-1)]
+#         # self.in_dims = [768] + tmp
+#         # self.out_dims = tmp + [1]
+        
+#         # self.net = [nn.Linear(self.in_dims[i], self.out_dims[i]) for i in range(self.layers)]
+#         # self.net = nn.Sequential(*self.net)
+        
+#         self.fc1 = nn.Linear(768, 512)
+#         self.fc2 = nn.Linear(512, 256)
+#         self.fc4 = nn.Linear(256, 1)
+    
+    
+#     def encode(self, x):
+#         x = F.relu(self.fc1(x))
+#         x = F.relu(self.fc2(x))
+#         x = self.fc4(x)
+#         return x
+    
+#     def forward(self, x):
+#         x = self.encode(x)
+#         # for i in range(self.layers):
+#         #     if i == self.layers - 1:
+#         #         x = torch.sigmoid(self.net[i](x)) * 100 # for regrading
+#         #     else: 
+#         #         x = F.relu(self.net[i](x))
+#         return x
     
 # class MLP(nn.Module):
 #     def __init__(self, layers = 2):
@@ -115,17 +148,8 @@ class CNN(nn.Module):
         return x
 
 def get_info(is_train):
-    if is_train:
-        f = open('./src/train_set.txt')
-    else:
-        f = open('./src/test_set.txt')
-    data = {}
-    for line in f:
-        if line != '':
-            tmp = line.split(' ')
-            tmp[1] = float(tmp[1].replace('\n', ''))
-            data[tmp[0]] = tmp[1]
-    f.close()
+    # for file in ./data, get the name of the file
+    data=os.listdir(INPUT_PATH)
     return data
 
 def read_data_train(version=1):
@@ -134,8 +158,8 @@ def read_data_train(version=1):
     # get the train data
     data = get_info(1)
     for item in data:
-        if os.path.exists("./src/train_transform/version" + str(version) + "/" + item + ".txt"):
-            file = open("./src/train_transform/version" + str(version) + "/" + item + ".txt")
+        if os.path.exists(INPUT_PATH + item ):
+            file = open(INPUT_PATH + item )
             tmp = []
             for line in file:
                 tmp = line.replace('[', '').replace(']', '').replace(' ', '').split(',')
@@ -150,14 +174,14 @@ def read_data_test(version=1):
     # get the test data
     data = get_info(0)
     for item in data:
-        if os.path.exists("./src/test_transform/version" + str(version) + "/" + item + ".txt"):
-            file = open("./src/test_transform/version" + str(version) + "/" + item + ".txt")
+        if os.path.exists(INPUT_PATH + item ):
+            file = open(INPUT_PATH + item )
             tmp = []
             for line in file:
                 tmp = line.replace('[', '').replace(']', '').replace(' ', '').split(',')
                 tmp = [float(i) for i in tmp]
             x_test.append(tmp)
-            y_test.append(data[item])
+            # y_test.append(data[item])
     return x_test, y_test
 
 # calc test loss
@@ -200,18 +224,27 @@ if __name__ == "__main__":
     else:
         model = CNN()
     
-    # model.to(device)
-    
-    out_value = {}
-    data1 = get_info(0)
-    data = []
-    for i in data1:
-      data.append(i)
+    model.to(device)
+    data = get_info(0)
     
     # load the model
     model.load_state_dict(torch.load(MODEL_PATH, map_location=torch.device('cpu')))
     # init the loss function
     X, Y = read_data_test(TEST_VERSION)
+    
+    dict = {}
+    
+    # x_test = []
+    # # get the test data
+    # file = open( "covid_filter_out.a3m" )
+    # tmp = []
+    # for line in file:
+    #     tmp = line.replace('[', '').replace(']', '').replace(' ', '').split(',')
+    #     tmp = [float(i) for i in tmp]
+    # x_test.append(tmp)
+    # # print(x_test)
+    # out = model(torch.tensor(x_test).float())
+    # print(out)
 
     # pair-wise comparison
     if PWC:
@@ -223,13 +256,17 @@ if __name__ == "__main__":
                 y=x+1
                 out1 = model(torch.tensor(X[x]).float())
                 out2 = model(torch.tensor(X[y]).float())
-                out_value[data[x]] = float(out1)
-                out_value[data[y]] = float(out2)
-                train_out = (out1 >= out2)
-                test_out = (Y[x] >= Y[y])
-                if ((train_out and test_out) or (not train_out and not test_out)):
-                    passn += 1
-                total += 1
+                # print(data[x] + ": " + str(float(out1)))
+                # print(data[y] + ": " + str(float(out2)))
+                
+                dict[data[x]] = float(out1)
+                dict[data[y]] = float(out2)
+                      
+                # train_out = (out1 >= out2)
+                # test_out = (Y[x] >= Y[y])
+                # if ((train_out and test_out) or (not train_out and not test_out)):
+                #     passn += 1
+                # total += 1
                 x += 2
         else:
             while x < len(X):
@@ -247,46 +284,47 @@ if __name__ == "__main__":
                     passn += 1
                 total += 1
                 x += 2
-        print("Pair-wise comparison pass rate:" + str(passn/total))
+        # print("Pair-wise comparison pass rate:" + str(passn/total))
                 
+        # print(dict)
+        # sort for dict
+        dict = sorted(dict.items(), key=lambda x: x[1], reverse=True)
+        print(dict)
+        # output csv
+        with open('result.csv', 'w', newline='') as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(['id', 'score'])
+            for item in dict:
+                writer.writerow([item[0], item[1]])
     # C_N^2
-    if CN2:
-        passn = 0
-        total = 0
-        if METHOD == "MLP":
-            for x in range(len(X)):
-                for y in range(x+1, len(X)):
-                    out1 = model(torch.tensor(X[x]).float())
-                    out2 = model(torch.tensor(X[y]).float())
-                    train_out = (out1 >= out2)
-                    test_out = (Y[x] >= Y[y])
-                    if ((train_out and test_out) or (not train_out and not test_out)):
-                        passn += 1
-                    total += 1
-        else:
-            for x in range(len(X)):
-                for y in range(x+1, len(X)):
-                    if len(X[x]) != 64*768 or len(X[y]) != 64*768:
-                        continue
-                    inputs1 = torch.from_numpy(np.array(X[x]).reshape(1, 64, 768)).float().to(device)
-                    inputs2 = torch.from_numpy(np.array(X[y]).reshape(1, 64, 768)).float().to(device)
-                    out1 = model(inputs1).cpu().detach().numpy()
-                    out2 = model(inputs2).cpu().detach().numpy()
-                    train_out = (out1 >= out2)
-                    test_out = (Y[x] >= Y[y])
-                    if ((train_out and test_out) or (not train_out and not test_out)):
-                        passn += 1
-                    total += 1
-        print("C_N^2 pass rate:" + str(passn/total))
-        
-    out_value = sorted(out_value.items(), key=lambda x: x[1], reverse=True)
-    print(out_value)
-    # output csv
-    with open('result.csv', 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(['id', 'score'])
-        for item in out_value:
-            writer.writerow([item[0], item[1]])
+    # if CN2:
+    #     passn = 0
+    #     total = 0
+    #     if METHOD == "MLP":
+    #         for x in range(len(X)):
+    #             for y in range(x+1, len(X)):
+    #                 out1 = model(torch.tensor(X[x]).float())
+    #                 out2 = model(torch.tensor(X[y]).float())
+    #                 train_out = (out1 >= out2)
+    #                 test_out = (Y[x] >= Y[y])
+    #                 if ((train_out and test_out) or (not train_out and not test_out)):
+    #                     passn += 1
+    #                 total += 1
+    #     else:
+    #         for x in range(len(X)):
+    #             for y in range(x+1, len(X)):
+    #                 if len(X[x]) != 64*768 or len(X[y]) != 64*768:
+    #                     continue
+    #                 inputs1 = torch.from_numpy(np.array(X[x]).reshape(1, 64, 768)).float().to(device)
+    #                 inputs2 = torch.from_numpy(np.array(X[y]).reshape(1, 64, 768)).float().to(device)
+    #                 out1 = model(inputs1).cpu().detach().numpy()
+    #                 out2 = model(inputs2).cpu().detach().numpy()
+    #                 train_out = (out1 >= out2)
+    #                 test_out = (Y[x] >= Y[y])
+    #                 if ((train_out and test_out) or (not train_out and not test_out)):
+    #                     passn += 1
+    #                 total += 1
+    #     print("C_N^2 pass rate:" + str(passn/total))
 
     # test loss
-    print("Test loss:" + str(test_loss(model, X, Y, METHOD)))
+    # print("Test loss:" + str(test_loss(model, X, Y, METHOD)))

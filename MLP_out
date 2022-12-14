@@ -1,0 +1,1649 @@
+Number of training 165
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 166      Training Loss: 20.654003
+Number of test 166
+Loss: tensor(121.1974, grad_fn=<DivBackward0>)
+Number of training 166
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 167      Training Loss: 20.487871
+Number of test 167
+Loss: tensor(135.0589, grad_fn=<DivBackward0>)
+Number of training 167
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 168      Training Loss: 21.001372
+Number of test 168
+Loss: tensor(119.1156, grad_fn=<DivBackward0>)
+Number of training 168
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 169      Training Loss: 19.894326
+Number of test 169
+Loss: tensor(126.5739, grad_fn=<DivBackward0>)
+Number of training 169
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 170      Training Loss: 19.244634
+Number of test 170
+Loss: tensor(128.6474, grad_fn=<DivBackward0>)
+Number of training 170
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 171      Training Loss: 18.515152
+Number of test 171
+Loss: tensor(135.9566, grad_fn=<DivBackward0>)
+Number of training 171
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 172      Training Loss: 19.714693
+Number of test 172
+Loss: tensor(130.6990, grad_fn=<DivBackward0>)
+Number of training 172
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 173      Training Loss: 19.613961
+Number of test 173
+Loss: tensor(117.8632, grad_fn=<DivBackward0>)
+Number of training 173
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 174      Training Loss: 21.416425
+Number of test 174
+Loss: tensor(134.3332, grad_fn=<DivBackward0>)
+Number of training 174
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 175      Training Loss: 19.192629
+Number of test 175
+Loss: tensor(114.0088, grad_fn=<DivBackward0>)
+Number of training 175
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 176      Training Loss: 18.600929
+Number of test 176
+Loss: tensor(118.6277, grad_fn=<DivBackward0>)
+Number of training 176
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 177      Training Loss: 19.248614
+Number of test 177
+Loss: tensor(133.3598, grad_fn=<DivBackward0>)
+Number of training 177
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 178      Training Loss: 20.335381
+Number of test 178
+Loss: tensor(116.5023, grad_fn=<DivBackward0>)
+Number of training 178
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 179      Training Loss: 18.463117
+Number of test 179
+Loss: tensor(130.0443, grad_fn=<DivBackward0>)
+Number of training 179
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 180      Training Loss: 18.870217
+Number of test 180
+Loss: tensor(124.9993, grad_fn=<DivBackward0>)
+Number of training 180
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 181      Training Loss: 18.300803
+Number of test 181
+Loss: tensor(125.7720, grad_fn=<DivBackward0>)
+Number of training 181
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 182      Training Loss: 20.011061
+Number of test 182
+Loss: tensor(107.1363, grad_fn=<DivBackward0>)
+Number of training 182
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 183      Training Loss: 18.745097
+Number of test 183
+Loss: tensor(125.7777, grad_fn=<DivBackward0>)
+Number of training 183
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 184      Training Loss: 19.274359
+Number of test 184
+Loss: tensor(127.2202, grad_fn=<DivBackward0>)
+Number of training 184
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 185      Training Loss: 16.163455
+Number of test 185
+Loss: tensor(130.2068, grad_fn=<DivBackward0>)
+Number of training 185
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 186      Training Loss: 17.999247
+Number of test 186
+Loss: tensor(113.1923, grad_fn=<DivBackward0>)
+Number of training 186
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 187      Training Loss: 17.923164
+Number of test 187
+Loss: tensor(121.5869, grad_fn=<DivBackward0>)
+Number of training 187
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 188      Training Loss: 20.842452
+Number of test 188
+Loss: tensor(143.9819, grad_fn=<DivBackward0>)
+Number of training 188
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 189      Training Loss: 17.669164
+Number of test 189
+Loss: tensor(127.0001, grad_fn=<DivBackward0>)
+Number of training 189
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 190      Training Loss: 17.579480
+Number of test 190
+Loss: tensor(114.2039, grad_fn=<DivBackward0>)
+Number of training 190
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 191      Training Loss: 18.334715
+Number of test 191
+Loss: tensor(130.8970, grad_fn=<DivBackward0>)
+Number of training 191
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 192      Training Loss: 18.461357
+Number of test 192
+Loss: tensor(139.9949, grad_fn=<DivBackward0>)
+Number of training 192
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 193      Training Loss: 18.216842
+Number of test 193
+Loss: tensor(122.9129, grad_fn=<DivBackward0>)
+Number of training 193
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 194      Training Loss: 17.764228
+Number of test 194
+Loss: tensor(130.7588, grad_fn=<DivBackward0>)
+Number of training 194
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 195      Training Loss: 18.567116
+Number of test 195
+Loss: tensor(122.6365, grad_fn=<DivBackward0>)
+Number of training 195
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 196      Training Loss: 18.109868
+Number of test 196
+Loss: tensor(126.2713, grad_fn=<DivBackward0>)
+Number of training 196
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 197      Training Loss: 18.800741
+Number of test 197
+Loss: tensor(129.0092, grad_fn=<DivBackward0>)
+Number of training 197
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 198      Training Loss: 18.092551
+Number of test 198
+Loss: tensor(124.6600, grad_fn=<DivBackward0>)
+Number of training 198
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 199      Training Loss: 18.459361
+Number of test 199
+Loss: tensor(131.6257, grad_fn=<DivBackward0>)
+Number of training 199
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 200      Training Loss: 17.024593
+Number of test 200
+Loss: tensor(113.8840, grad_fn=<DivBackward0>)
+Number of training 200
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 201      Training Loss: 17.241692
+Number of test 201
+Loss: tensor(106.1248, grad_fn=<DivBackward0>)
+Number of training 201
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 202      Training Loss: 19.091900
+Number of test 202
+Loss: tensor(127.3202, grad_fn=<DivBackward0>)
+Number of training 202
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 203      Training Loss: 16.495064
+Number of test 203
+Loss: tensor(119.5360, grad_fn=<DivBackward0>)
+Number of training 203
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 204      Training Loss: 17.313334
+Number of test 204
+Loss: tensor(130.9971, grad_fn=<DivBackward0>)
+Number of training 204
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 205      Training Loss: 17.440816
+Number of test 205
+Loss: tensor(118.8714, grad_fn=<DivBackward0>)
+Number of training 205
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 206      Training Loss: 17.274449
+Number of test 206
+Loss: tensor(123.7040, grad_fn=<DivBackward0>)
+Number of training 206
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 207      Training Loss: 16.933330
+Number of test 207
+Loss: tensor(130.9666, grad_fn=<DivBackward0>)
+Number of training 207
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 208      Training Loss: 16.467596
+Number of test 208
+Loss: tensor(120.3648, grad_fn=<DivBackward0>)
+Number of training 208
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 209      Training Loss: 15.794361
+Number of test 209
+Loss: tensor(117.9836, grad_fn=<DivBackward0>)
+Number of training 209
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 210      Training Loss: 16.792701
+Number of test 210
+Loss: tensor(128.0508, grad_fn=<DivBackward0>)
+Number of training 210
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 211      Training Loss: 17.089608
+Number of test 211
+Loss: tensor(118.2417, grad_fn=<DivBackward0>)
+Number of training 211
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 212      Training Loss: 17.335640
+Number of test 212
+Loss: tensor(120.4589, grad_fn=<DivBackward0>)
+Number of training 212
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 213      Training Loss: 16.974941
+Number of test 213
+Loss: tensor(138.4901, grad_fn=<DivBackward0>)
+Number of training 213
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 214      Training Loss: 16.926538
+Number of test 214
+Loss: tensor(146.9123, grad_fn=<DivBackward0>)
+Number of training 214
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 215      Training Loss: 16.129263
+Number of test 215
+Loss: tensor(104.6054, grad_fn=<DivBackward0>)
+Number of training 215
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 216      Training Loss: 15.816632
+Number of test 216
+Loss: tensor(128.2027, grad_fn=<DivBackward0>)
+Number of training 216
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 217      Training Loss: 16.494249
+Number of test 217
+Loss: tensor(125.5114, grad_fn=<DivBackward0>)
+Number of training 217
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 218      Training Loss: 15.199271
+Number of test 218
+Loss: tensor(112.2126, grad_fn=<DivBackward0>)
+Number of training 218
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 219      Training Loss: 15.728868
+Number of test 219
+Loss: tensor(108.7428, grad_fn=<DivBackward0>)
+Number of training 219
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 220      Training Loss: 15.389594
+Number of test 220
+Loss: tensor(111.1268, grad_fn=<DivBackward0>)
+Number of training 220
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 221      Training Loss: 15.274349
+Number of test 221
+Loss: tensor(120.2385, grad_fn=<DivBackward0>)
+Number of training 221
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 222      Training Loss: 15.708134
+Number of test 222
+Loss: tensor(134.4205, grad_fn=<DivBackward0>)
+Number of training 222
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 223      Training Loss: 16.715643
+Number of test 223
+Loss: tensor(125.5471, grad_fn=<DivBackward0>)
+Number of training 223
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 224      Training Loss: 16.298811
+Number of test 224
+Loss: tensor(106.7151, grad_fn=<DivBackward0>)
+Number of training 224
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 225      Training Loss: 15.606408
+Number of test 225
+Loss: tensor(147.8204, grad_fn=<DivBackward0>)
+Number of training 225
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 226      Training Loss: 15.542575
+Number of test 226
+Loss: tensor(117.5531, grad_fn=<DivBackward0>)
+Number of training 226
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 227      Training Loss: 16.375114
+Number of test 227
+Loss: tensor(142.5710, grad_fn=<DivBackward0>)
+Number of training 227
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 228      Training Loss: 14.934097
+Number of test 228
+Loss: tensor(113.9268, grad_fn=<DivBackward0>)
+Number of training 228
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 229      Training Loss: 16.160292
+Number of test 229
+Loss: tensor(134.7055, grad_fn=<DivBackward0>)
+Number of training 229
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 230      Training Loss: 15.284978
+Number of test 230
+Loss: tensor(134.6107, grad_fn=<DivBackward0>)
+Number of training 230
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 231      Training Loss: 16.338123
+Number of test 231
+Loss: tensor(133.7087, grad_fn=<DivBackward0>)
+Number of training 231
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 232      Training Loss: 14.479605
+Number of test 232
+Loss: tensor(130.0389, grad_fn=<DivBackward0>)
+Number of training 232
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 233      Training Loss: 14.995527
+Number of test 233
+Loss: tensor(113.0476, grad_fn=<DivBackward0>)
+Number of training 233
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 234      Training Loss: 16.422753
+Number of test 234
+Loss: tensor(137.6708, grad_fn=<DivBackward0>)
+Number of training 234
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 235      Training Loss: 16.047066
+Number of test 235
+Loss: tensor(121.4460, grad_fn=<DivBackward0>)
+Number of training 235
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 236      Training Loss: 16.229474
+Number of test 236
+Loss: tensor(130.0887, grad_fn=<DivBackward0>)
+Number of training 236
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 237      Training Loss: 15.938311
+Number of test 237
+Loss: tensor(133.4507, grad_fn=<DivBackward0>)
+Number of training 237
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 238      Training Loss: 15.010485
+Number of test 238
+Loss: tensor(113.9168, grad_fn=<DivBackward0>)
+Number of training 238
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 239      Training Loss: 14.225888
+Number of test 239
+Loss: tensor(135.2420, grad_fn=<DivBackward0>)
+Number of training 239
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 240      Training Loss: 14.877507
+Number of test 240
+Loss: tensor(115.2560, grad_fn=<DivBackward0>)
+Number of training 240
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 241      Training Loss: 14.741923
+Number of test 241
+Loss: tensor(123.1258, grad_fn=<DivBackward0>)
+Number of training 241
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 242      Training Loss: 14.907456
+Number of test 242
+Loss: tensor(132.5317, grad_fn=<DivBackward0>)
+Number of training 242
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 243      Training Loss: 15.481356
+Number of test 243
+Loss: tensor(125.8693, grad_fn=<DivBackward0>)
+Number of training 243
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 244      Training Loss: 15.073629
+Number of test 244
+Loss: tensor(130.2335, grad_fn=<DivBackward0>)
+Number of training 244
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 245      Training Loss: 14.629772
+Number of test 245
+Loss: tensor(119.0753, grad_fn=<DivBackward0>)
+Number of training 245
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 246      Training Loss: 13.633413
+Number of test 246
+Loss: tensor(129.3985, grad_fn=<DivBackward0>)
+Number of training 246
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 247      Training Loss: 14.469295
+Number of test 247
+Loss: tensor(146.1956, grad_fn=<DivBackward0>)
+Number of training 247
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 248      Training Loss: 14.873337
+Number of test 248
+Loss: tensor(123.0566, grad_fn=<DivBackward0>)
+Number of training 248
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 249      Training Loss: 14.973660
+Number of test 249
+Loss: tensor(114.3252, grad_fn=<DivBackward0>)
+Number of training 249
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 250      Training Loss: 15.410506
+Number of test 250
+Loss: tensor(123.5145, grad_fn=<DivBackward0>)
+Number of training 250
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 251      Training Loss: 14.435502
+Number of test 251
+Loss: tensor(129.7071, grad_fn=<DivBackward0>)
+Number of training 251
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 252      Training Loss: 13.184655
+Number of test 252
+Loss: tensor(118.5402, grad_fn=<DivBackward0>)
+Number of training 252
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 253      Training Loss: 13.885451
+Number of test 253
+Loss: tensor(118.0270, grad_fn=<DivBackward0>)
+Number of training 253
+Pass rate:0.9894736842105263
+Train version: 3
+Test version: 3
+Epoch: 254      Training Loss: 14.476787
+Number of test 254
+Loss: tensor(116.4918, grad_fn=<DivBackward0>)
+Number of training 254
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 255      Training Loss: 14.195027
+Number of test 255
+Loss: tensor(118.0502, grad_fn=<DivBackward0>)
+Number of training 255
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 256      Training Loss: 14.205150
+Number of test 256
+Loss: tensor(127.9315, grad_fn=<DivBackward0>)
+Number of training 256
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 257      Training Loss: 13.448206
+Number of test 257
+Loss: tensor(116.9432, grad_fn=<DivBackward0>)
+Number of training 257
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 258      Training Loss: 14.171320
+Number of test 258
+Loss: tensor(126.6757, grad_fn=<DivBackward0>)
+Number of training 258
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 259      Training Loss: 13.305346
+Number of test 259
+Loss: tensor(103.1145, grad_fn=<DivBackward0>)
+Number of training 259
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 260      Training Loss: 15.023514
+Number of test 260
+Loss: tensor(128.6675, grad_fn=<DivBackward0>)
+Number of training 260
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 261      Training Loss: 13.541560
+Number of test 261
+Loss: tensor(113.6271, grad_fn=<DivBackward0>)
+Number of training 261
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 262      Training Loss: 14.697655
+Number of test 262
+Loss: tensor(139.6719, grad_fn=<DivBackward0>)
+Number of training 262
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 263      Training Loss: 13.830318
+Number of test 263
+Loss: tensor(105.6423, grad_fn=<DivBackward0>)
+Number of training 263
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 264      Training Loss: 14.304397
+Number of test 264
+Loss: tensor(113.6718, grad_fn=<DivBackward0>)
+Number of training 264
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 265      Training Loss: 13.292556
+Number of test 265
+Loss: tensor(121.6723, grad_fn=<DivBackward0>)
+Number of training 265
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 266      Training Loss: 14.179462
+Number of test 266
+Loss: tensor(117.2744, grad_fn=<DivBackward0>)
+Number of training 266
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 267      Training Loss: 15.089208
+Number of test 267
+Loss: tensor(110.3840, grad_fn=<DivBackward0>)
+Number of training 267
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 268      Training Loss: 15.184565
+Number of test 268
+Loss: tensor(115.1079, grad_fn=<DivBackward0>)
+Number of training 268
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 269      Training Loss: 14.652444
+Number of test 269
+Loss: tensor(123.5256, grad_fn=<DivBackward0>)
+Number of training 269
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 270      Training Loss: 12.884475
+Number of test 270
+Loss: tensor(133.3137, grad_fn=<DivBackward0>)
+Number of training 270
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 271      Training Loss: 13.295324
+Number of test 271
+Loss: tensor(129.1586, grad_fn=<DivBackward0>)
+Number of training 271
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 272      Training Loss: 15.364202
+Number of test 272
+Loss: tensor(134.3650, grad_fn=<DivBackward0>)
+Number of training 272
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 273      Training Loss: 13.156539
+Number of test 273
+Loss: tensor(117.1660, grad_fn=<DivBackward0>)
+Number of training 273
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 274      Training Loss: 13.241485
+Number of test 274
+Loss: tensor(128.5086, grad_fn=<DivBackward0>)
+Number of training 274
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 275      Training Loss: 13.898321
+Number of test 275
+Loss: tensor(121.0073, grad_fn=<DivBackward0>)
+Number of training 275
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 276      Training Loss: 13.117670
+Number of test 276
+Loss: tensor(127.9730, grad_fn=<DivBackward0>)
+Number of training 276
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 277      Training Loss: 13.400663
+Number of test 277
+Loss: tensor(107.9025, grad_fn=<DivBackward0>)
+Number of training 277
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 278      Training Loss: 13.724871
+Number of test 278
+Loss: tensor(101.3802, grad_fn=<DivBackward0>)
+Number of training 278
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 279      Training Loss: 12.865040
+Number of test 279
+Loss: tensor(124.4709, grad_fn=<DivBackward0>)
+Number of training 279
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 280      Training Loss: 12.916822
+Number of test 280
+Loss: tensor(146.5242, grad_fn=<DivBackward0>)
+Number of training 280
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 281      Training Loss: 12.203609
+Number of test 281
+Loss: tensor(118.0550, grad_fn=<DivBackward0>)
+Number of training 281
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 282      Training Loss: 12.695309
+Number of test 282
+Loss: tensor(133.4750, grad_fn=<DivBackward0>)
+Number of training 282
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 283      Training Loss: 14.488369
+Number of test 283
+Loss: tensor(130.9957, grad_fn=<DivBackward0>)
+Number of training 283
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 284      Training Loss: 13.318461
+Number of test 284
+Loss: tensor(133.2810, grad_fn=<DivBackward0>)
+Number of training 284
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 285      Training Loss: 13.089717
+Number of test 285
+Loss: tensor(115.8168, grad_fn=<DivBackward0>)
+Number of training 285
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 286      Training Loss: 14.458144
+Number of test 286
+Loss: tensor(123.8354, grad_fn=<DivBackward0>)
+Number of training 286
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 287      Training Loss: 12.917264
+Number of test 287
+Loss: tensor(108.4525, grad_fn=<DivBackward0>)
+Number of training 287
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 288      Training Loss: 12.636261
+Number of test 288
+Loss: tensor(122.1971, grad_fn=<DivBackward0>)
+Number of training 288
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 289      Training Loss: 13.339545
+Number of test 289
+Loss: tensor(130.3658, grad_fn=<DivBackward0>)
+Number of training 289
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 290      Training Loss: 13.654510
+Number of test 290
+Loss: tensor(126.6663, grad_fn=<DivBackward0>)
+Number of training 290
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 291      Training Loss: 12.500907
+Number of test 291
+Loss: tensor(123.5287, grad_fn=<DivBackward0>)
+Number of training 291
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 292      Training Loss: 12.625599
+Number of test 292
+Loss: tensor(135.9935, grad_fn=<DivBackward0>)
+Number of training 292
+Pass rate:0.9894736842105263
+Train version: 3
+Test version: 3
+Epoch: 293      Training Loss: 13.381258
+Number of test 293
+Loss: tensor(127.4130, grad_fn=<DivBackward0>)
+Number of training 293
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 294      Training Loss: 13.002611
+Number of test 294
+Loss: tensor(130.8804, grad_fn=<DivBackward0>)
+Number of training 294
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 295      Training Loss: 12.694231
+Number of test 295
+Loss: tensor(124.5362, grad_fn=<DivBackward0>)
+Number of training 295
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 296      Training Loss: 13.352824
+Number of test 296
+Loss: tensor(132.1107, grad_fn=<DivBackward0>)
+Number of training 296
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 297      Training Loss: 12.141943
+Number of test 297
+Loss: tensor(141.1729, grad_fn=<DivBackward0>)
+Number of training 297
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 298      Training Loss: 13.209541
+Number of test 298
+Loss: tensor(121.6288, grad_fn=<DivBackward0>)
+Number of training 298
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 299      Training Loss: 11.648446
+Number of test 299
+Loss: tensor(140.0746, grad_fn=<DivBackward0>)
+Number of training 299
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 300      Training Loss: 13.307664
+Number of test 300
+Loss: tensor(126.4725, grad_fn=<DivBackward0>)
+Number of training 300
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 301      Training Loss: 13.625710
+Number of test 301
+Loss: tensor(122.0761, grad_fn=<DivBackward0>)
+Number of training 301
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 302      Training Loss: 12.481063
+Number of test 302
+Loss: tensor(132.2921, grad_fn=<DivBackward0>)
+Number of training 302
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 303      Training Loss: 13.098630
+Number of test 303
+Loss: tensor(115.2839, grad_fn=<DivBackward0>)
+Number of training 303
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 304      Training Loss: 12.109686
+Number of test 304
+Loss: tensor(121.3866, grad_fn=<DivBackward0>)
+Number of training 304
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 305      Training Loss: 12.414649
+Number of test 305
+Loss: tensor(116.7322, grad_fn=<DivBackward0>)
+Number of training 305
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 306      Training Loss: 11.889781
+Number of test 306
+Loss: tensor(130.5879, grad_fn=<DivBackward0>)
+Number of training 306
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 307      Training Loss: 13.250121
+Number of test 307
+Loss: tensor(114.3818, grad_fn=<DivBackward0>)
+Number of training 307
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 308      Training Loss: 12.481729
+Number of test 308
+Loss: tensor(138.5185, grad_fn=<DivBackward0>)
+Number of training 308
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 309      Training Loss: 12.952871
+Number of test 309
+Loss: tensor(111.4759, grad_fn=<DivBackward0>)
+Number of training 309
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 310      Training Loss: 12.307741
+Number of test 310
+Loss: tensor(123.3095, grad_fn=<DivBackward0>)
+Number of training 310
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 311      Training Loss: 12.588107
+Number of test 311
+Loss: tensor(129.0213, grad_fn=<DivBackward0>)
+Number of training 311
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 312      Training Loss: 11.830662
+Number of test 312
+Loss: tensor(116.5213, grad_fn=<DivBackward0>)
+Number of training 312
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 313      Training Loss: 13.631634
+Number of test 313
+Loss: tensor(132.9411, grad_fn=<DivBackward0>)
+Number of training 313
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 314      Training Loss: 11.974034
+Number of test 314
+Loss: tensor(116.6509, grad_fn=<DivBackward0>)
+Number of training 314
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 315      Training Loss: 11.312870
+Number of test 315
+Loss: tensor(125.8721, grad_fn=<DivBackward0>)
+Number of training 315
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 316      Training Loss: 12.678318
+Number of test 316
+Loss: tensor(139.1631, grad_fn=<DivBackward0>)
+Number of training 316
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 317      Training Loss: 12.504662
+Number of test 317
+Loss: tensor(122.4993, grad_fn=<DivBackward0>)
+Number of training 317
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 318      Training Loss: 11.497873
+Number of test 318
+Loss: tensor(135.2900, grad_fn=<DivBackward0>)
+Number of training 318
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 319      Training Loss: 12.472260
+Number of test 319
+Loss: tensor(110.6284, grad_fn=<DivBackward0>)
+Number of training 319
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 320      Training Loss: 11.900668
+Number of test 320
+Loss: tensor(131.5793, grad_fn=<DivBackward0>)
+Number of training 320
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 321      Training Loss: 12.473579
+Number of test 321
+Loss: tensor(104.8897, grad_fn=<DivBackward0>)
+Number of training 321
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 322      Training Loss: 11.926521
+Number of test 322
+Loss: tensor(119.7159, grad_fn=<DivBackward0>)
+Number of training 322
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 323      Training Loss: 12.344260
+Number of test 323
+Loss: tensor(124.8536, grad_fn=<DivBackward0>)
+Number of training 323
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 324      Training Loss: 12.284438
+Number of test 324
+Loss: tensor(96.1343, grad_fn=<DivBackward0>)
+Number of training 324
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 325      Training Loss: 12.223240
+Number of test 325
+Loss: tensor(134.0321, grad_fn=<DivBackward0>)
+Number of training 325
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 326      Training Loss: 12.711952
+Number of test 326
+Loss: tensor(131.3997, grad_fn=<DivBackward0>)
+Number of training 326
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 327      Training Loss: 13.448377
+Number of test 327
+Loss: tensor(119.9169, grad_fn=<DivBackward0>)
+Number of training 327
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 328      Training Loss: 11.776148
+Number of test 328
+Loss: tensor(108.7672, grad_fn=<DivBackward0>)
+Number of training 328
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 329      Training Loss: 12.242222
+Number of test 329
+Loss: tensor(139.5338, grad_fn=<DivBackward0>)
+Number of training 329
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 330      Training Loss: 12.353186
+Number of test 330
+Loss: tensor(138.4221, grad_fn=<DivBackward0>)
+Number of training 330
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 331      Training Loss: 11.543626
+Number of test 331
+Loss: tensor(120.9787, grad_fn=<DivBackward0>)
+Number of training 331
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 332      Training Loss: 11.022728
+Number of test 332
+Loss: tensor(114.5094, grad_fn=<DivBackward0>)
+Number of training 332
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 333      Training Loss: 12.228789
+Number of test 333
+Loss: tensor(124.9908, grad_fn=<DivBackward0>)
+Number of training 333
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 334      Training Loss: 11.442559
+Number of test 334
+Loss: tensor(116.7213, grad_fn=<DivBackward0>)
+Number of training 334
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 335      Training Loss: 11.992709
+Number of test 335
+Loss: tensor(108.8758, grad_fn=<DivBackward0>)
+Number of training 335
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 336      Training Loss: 12.182045
+Number of test 336
+Loss: tensor(114.1386, grad_fn=<DivBackward0>)
+Number of training 336
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 337      Training Loss: 11.560317
+Number of test 337
+Loss: tensor(119.2072, grad_fn=<DivBackward0>)
+Number of training 337
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 338      Training Loss: 11.686897
+Number of test 338
+Loss: tensor(122.2965, grad_fn=<DivBackward0>)
+Number of training 338
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 339      Training Loss: 11.970102
+Number of test 339
+Loss: tensor(129.9840, grad_fn=<DivBackward0>)
+Number of training 339
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 340      Training Loss: 11.221132
+Number of test 340
+Loss: tensor(105.5810, grad_fn=<DivBackward0>)
+Number of training 340
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 341      Training Loss: 10.203525
+Number of test 341
+Loss: tensor(119.3090, grad_fn=<DivBackward0>)
+Number of training 341
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 342      Training Loss: 11.251555
+Number of test 342
+Loss: tensor(115.2087, grad_fn=<DivBackward0>)
+Number of training 342
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 343      Training Loss: 11.648566
+Number of test 343
+Loss: tensor(122.6871, grad_fn=<DivBackward0>)
+Number of training 343
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 344      Training Loss: 12.527686
+Number of test 344
+Loss: tensor(118.9790, grad_fn=<DivBackward0>)
+Number of training 344
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 345      Training Loss: 12.270702
+Number of test 345
+Loss: tensor(140.3522, grad_fn=<DivBackward0>)
+Number of training 345
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 346      Training Loss: 11.656637
+Number of test 346
+Loss: tensor(112.9927, grad_fn=<DivBackward0>)
+Number of training 346
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 347      Training Loss: 11.523231
+Number of test 347
+Loss: tensor(121.6331, grad_fn=<DivBackward0>)
+Number of training 347
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 348      Training Loss: 11.247418
+Number of test 348
+Loss: tensor(127.2094, grad_fn=<DivBackward0>)
+Number of training 348
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 349      Training Loss: 10.179970
+Number of test 349
+Loss: tensor(116.1406, grad_fn=<DivBackward0>)
+Number of training 349
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 350      Training Loss: 10.732137
+Number of test 350
+Loss: tensor(123.7775, grad_fn=<DivBackward0>)
+Number of training 350
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 351      Training Loss: 10.690663
+Number of test 351
+Loss: tensor(140.3575, grad_fn=<DivBackward0>)
+Number of training 351
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 352      Training Loss: 11.261914
+Number of test 352
+Loss: tensor(124.0704, grad_fn=<DivBackward0>)
+Number of training 352
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 353      Training Loss: 10.551630
+Number of test 353
+Loss: tensor(115.9374, grad_fn=<DivBackward0>)
+Number of training 353
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 354      Training Loss: 10.975704
+Number of test 354
+Loss: tensor(146.4480, grad_fn=<DivBackward0>)
+Number of training 354
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 355      Training Loss: 11.029028
+Number of test 355
+Loss: tensor(116.6213, grad_fn=<DivBackward0>)
+Number of training 355
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 356      Training Loss: 11.559420
+Number of test 356
+Loss: tensor(140.1391, grad_fn=<DivBackward0>)
+Number of training 356
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 357      Training Loss: 10.356966
+Number of test 357
+Loss: tensor(133.5585, grad_fn=<DivBackward0>)
+Number of training 357
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 358      Training Loss: 11.098779
+Number of test 358
+Loss: tensor(110.9389, grad_fn=<DivBackward0>)
+Number of training 358
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 359      Training Loss: 10.990974
+Number of test 359
+Loss: tensor(144.1592, grad_fn=<DivBackward0>)
+Number of training 359
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 360      Training Loss: 10.071848
+Number of test 360
+Loss: tensor(123.8845, grad_fn=<DivBackward0>)
+Number of training 360
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 361      Training Loss: 11.572183
+Number of test 361
+Loss: tensor(131.7399, grad_fn=<DivBackward0>)
+Number of training 361
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 362      Training Loss: 10.817343
+Number of test 362
+Loss: tensor(125.0166, grad_fn=<DivBackward0>)
+Number of training 362
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 363      Training Loss: 10.311669
+Number of test 363
+Loss: tensor(135.1734, grad_fn=<DivBackward0>)
+Number of training 363
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 364      Training Loss: 11.542555
+Number of test 364
+Loss: tensor(131.1823, grad_fn=<DivBackward0>)
+Number of training 364
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 365      Training Loss: 10.486412
+Number of test 365
+Loss: tensor(125.0571, grad_fn=<DivBackward0>)
+Number of training 365
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 366      Training Loss: 11.260593
+Number of test 366
+Loss: tensor(135.4933, grad_fn=<DivBackward0>)
+Number of training 366
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 367      Training Loss: 11.597661
+Number of test 367
+Loss: tensor(145.8499, grad_fn=<DivBackward0>)
+Number of training 367
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 368      Training Loss: 11.951111
+Number of test 368
+Loss: tensor(118.5528, grad_fn=<DivBackward0>)
+Number of training 368
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 369      Training Loss: 12.354643
+Number of test 369
+Loss: tensor(130.8591, grad_fn=<DivBackward0>)
+Number of training 369
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 370      Training Loss: 10.143382
+Number of test 370
+Loss: tensor(135.9368, grad_fn=<DivBackward0>)
+Number of training 370
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 371      Training Loss: 11.675425
+Number of test 371
+Loss: tensor(120.0767, grad_fn=<DivBackward0>)
+Number of training 371
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 372      Training Loss: 11.389882
+Number of test 372
+Loss: tensor(126.5909, grad_fn=<DivBackward0>)
+Number of training 372
+Pass rate:0.9894736842105263
+Train version: 3
+Test version: 3
+Epoch: 373      Training Loss: 10.380804
+Number of test 373
+Loss: tensor(115.1484, grad_fn=<DivBackward0>)
+Number of training 373
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 374      Training Loss: 10.717213
+Number of test 374
+Loss: tensor(119.8581, grad_fn=<DivBackward0>)
+Number of training 374
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 375      Training Loss: 9.700982
+Number of test 375
+Loss: tensor(121.4808, grad_fn=<DivBackward0>)
+Number of training 375
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 376      Training Loss: 9.751852
+Number of test 376
+Loss: tensor(127.7672, grad_fn=<DivBackward0>)
+Number of training 376
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 377      Training Loss: 10.409071
+Number of test 377
+Loss: tensor(109.1569, grad_fn=<DivBackward0>)
+Number of training 377
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 378      Training Loss: 10.628148
+Number of test 378
+Loss: tensor(133.1264, grad_fn=<DivBackward0>)
+Number of training 378
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 379      Training Loss: 10.282142
+Number of test 379
+Loss: tensor(118.7258, grad_fn=<DivBackward0>)
+Number of training 379
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 380      Training Loss: 11.677260
+Number of test 380
+Loss: tensor(131.0630, grad_fn=<DivBackward0>)
+Number of training 380
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 381      Training Loss: 10.592851
+Number of test 381
+Loss: tensor(126.0320, grad_fn=<DivBackward0>)
+Number of training 381
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 382      Training Loss: 9.957952
+Number of test 382
+Loss: tensor(115.4273, grad_fn=<DivBackward0>)
+Number of training 382
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 383      Training Loss: 11.393948
+Number of test 383
+Loss: tensor(115.5469, grad_fn=<DivBackward0>)
+Number of training 383
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 384      Training Loss: 11.332306
+Number of test 384
+Loss: tensor(107.1102, grad_fn=<DivBackward0>)
+Number of training 384
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 385      Training Loss: 11.000775
+Number of test 385
+Loss: tensor(119.0757, grad_fn=<DivBackward0>)
+Number of training 385
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 386      Training Loss: 10.896261
+Number of test 386
+Loss: tensor(99.3428, grad_fn=<DivBackward0>)
+Number of training 386
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 387      Training Loss: 9.956800
+Number of test 387
+Loss: tensor(129.9084, grad_fn=<DivBackward0>)
+Number of training 387
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 388      Training Loss: 10.116256
+Number of test 388
+Loss: tensor(124.3344, grad_fn=<DivBackward0>)
+Number of training 388
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 389      Training Loss: 11.221590
+Number of test 389
+Loss: tensor(132.2942, grad_fn=<DivBackward0>)
+Number of training 389
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 390      Training Loss: 10.403605
+Number of test 390
+Loss: tensor(115.1225, grad_fn=<DivBackward0>)
+Number of training 390
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 391      Training Loss: 10.022562
+Number of test 391
+Loss: tensor(120.9670, grad_fn=<DivBackward0>)
+Number of training 391
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 392      Training Loss: 9.410267
+Number of test 392
+Loss: tensor(112.5181, grad_fn=<DivBackward0>)
+Number of training 392
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 393      Training Loss: 9.567451
+Number of test 393
+Loss: tensor(105.5214, grad_fn=<DivBackward0>)
+Number of training 393
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 394      Training Loss: 10.384892
+Number of test 394
+Loss: tensor(120.4662, grad_fn=<DivBackward0>)
+Number of training 394
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 395      Training Loss: 9.874027
+Number of test 395
+Loss: tensor(113.4021, grad_fn=<DivBackward0>)
+Number of training 395
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 396      Training Loss: 10.037190
+Number of test 396
+Loss: tensor(130.8027, grad_fn=<DivBackward0>)
+Number of training 396
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 397      Training Loss: 9.339656
+Number of test 397
+Loss: tensor(126.2059, grad_fn=<DivBackward0>)
+Number of training 397
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 398      Training Loss: 9.247376
+Number of test 398
+Loss: tensor(112.6243, grad_fn=<DivBackward0>)
+Number of training 398
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 399      Training Loss: 10.595144
+Number of test 399
+Loss: tensor(129.5231, grad_fn=<DivBackward0>)
+Number of training 399
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 400      Training Loss: 10.042304
+Number of test 400
+Loss: tensor(121.2168, grad_fn=<DivBackward0>)
+Number of training 400
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3

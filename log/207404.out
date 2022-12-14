@@ -1,0 +1,2807 @@
+Epoch: 0 	Training Loss: 437.663805
+Number of test 0
+Loss: tensor(390.6648, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 0
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 1 	Training Loss: 292.252392
+Number of test 1
+Loss: tensor(342.1974, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 1
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 2 	Training Loss: 252.135819
+Number of test 2
+Loss: tensor(369.5630, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 2
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 3 	Training Loss: 228.443649
+Number of test 3
+Loss: tensor(368.3618, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 3
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 4 	Training Loss: 216.607877
+Number of test 4
+Loss: tensor(337.0535, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 4
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 5 	Training Loss: 203.485110
+Number of test 5
+Loss: tensor(358.0932, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 5
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 6 	Training Loss: 193.251320
+Number of test 6
+Loss: tensor(342.1959, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 6
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 7 	Training Loss: 178.893574
+Number of test 7
+Loss: tensor(372.5753, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 7
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 8 	Training Loss: 164.297046
+Number of test 8
+Loss: tensor(342.7845, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 8
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 9 	Training Loss: 161.223614
+Number of test 9
+Loss: tensor(304.2004, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 9
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 10 	Training Loss: 143.907045
+Number of test 10
+Loss: tensor(299.0321, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 10
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 11 	Training Loss: 139.289590
+Number of test 11
+Loss: tensor(299.5828, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 11
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 12 	Training Loss: 133.850007
+Number of test 12
+Loss: tensor(313.0807, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 12
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 13 	Training Loss: 125.143335
+Number of test 13
+Loss: tensor(322.5009, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 13
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 14 	Training Loss: 117.948061
+Number of test 14
+Loss: tensor(315.3420, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 14
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 15 	Training Loss: 112.008854
+Number of test 15
+Loss: tensor(324.8962, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 15
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 16 	Training Loss: 112.439150
+Number of test 16
+Loss: tensor(317.8173, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 16
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 17 	Training Loss: 103.583733
+Number of test 17
+Loss: tensor(301.3038, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 17
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 18 	Training Loss: 98.984421
+Number of test 18
+Loss: tensor(280.9674, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 18
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 19 	Training Loss: 99.583822
+Number of test 19
+Loss: tensor(264.0363, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 19
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 20 	Training Loss: 95.202171
+Number of test 20
+Loss: tensor(255.9237, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 20
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 21 	Training Loss: 93.801556
+Number of test 21
+Loss: tensor(287.2237, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 21
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 22 	Training Loss: 91.416958
+Number of test 22
+Loss: tensor(250.1019, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 22
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 23 	Training Loss: 87.008023
+Number of test 23
+Loss: tensor(249.8691, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 23
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 24 	Training Loss: 81.245911
+Number of test 24
+Loss: tensor(241.8628, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 24
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 25 	Training Loss: 81.452071
+Number of test 25
+Loss: tensor(264.5668, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 25
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 26 	Training Loss: 78.256351
+Number of test 26
+Loss: tensor(227.6750, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 26
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 27 	Training Loss: 75.580360
+Number of test 27
+Loss: tensor(228.4105, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 27
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 28 	Training Loss: 73.796741
+Number of test 28
+Loss: tensor(255.4345, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 28
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 29 	Training Loss: 73.489796
+Number of test 29
+Loss: tensor(242.1017, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 29
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 30 	Training Loss: 71.392388
+Number of test 30
+Loss: tensor(234.9636, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 30
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 31 	Training Loss: 68.476424
+Number of test 31
+Loss: tensor(221.0370, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 31
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 32 	Training Loss: 68.981164
+Number of test 32
+Loss: tensor(209.0115, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 32
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 33 	Training Loss: 65.112247
+Number of test 33
+Loss: tensor(201.8821, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 33
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 34 	Training Loss: 67.919922
+Number of test 34
+Loss: tensor(210.7421, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 34
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 35 	Training Loss: 63.103426
+Number of test 35
+Loss: tensor(216.3058, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 35
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 36 	Training Loss: 62.382007
+Number of test 36
+Loss: tensor(210.5318, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 36
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 37 	Training Loss: 62.696074
+Number of test 37
+Loss: tensor(223.8206, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 37
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 38 	Training Loss: 60.879818
+Number of test 38
+Loss: tensor(195.9258, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 38
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 39 	Training Loss: 60.936817
+Number of test 39
+Loss: tensor(179.5659, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 39
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 40 	Training Loss: 58.271327
+Number of test 40
+Loss: tensor(182.3972, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 40
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 41 	Training Loss: 58.076192
+Number of test 41
+Loss: tensor(238.8004, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 41
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 42 	Training Loss: 60.058717
+Number of test 42
+Loss: tensor(187.7278, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 42
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 43 	Training Loss: 54.775672
+Number of test 43
+Loss: tensor(200.0420, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 43
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 44 	Training Loss: 56.736865
+Number of test 44
+Loss: tensor(215.4937, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 44
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 45 	Training Loss: 52.999630
+Number of test 45
+Loss: tensor(228.7306, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 45
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 46 	Training Loss: 53.056000
+Number of test 46
+Loss: tensor(197.7358, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 46
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 47 	Training Loss: 58.522430
+Number of test 47
+Loss: tensor(216.2129, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 47
+Pass rate:0.8631578947368421
+Train version: 3
+Test version: 3
+Epoch: 48 	Training Loss: 55.610966
+Number of test 48
+Loss: tensor(171.5060, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 48
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 49 	Training Loss: 53.924773
+Number of test 49
+Loss: tensor(223.9961, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 49
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 50 	Training Loss: 53.261876
+Number of test 50
+Loss: tensor(188.2959, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 50
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 51 	Training Loss: 52.342284
+Number of test 51
+Loss: tensor(213.0829, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 51
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 52 	Training Loss: 52.001019
+Number of test 52
+Loss: tensor(200.8809, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 52
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 53 	Training Loss: 50.160178
+Number of test 53
+Loss: tensor(167.8140, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 53
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 54 	Training Loss: 49.459973
+Number of test 54
+Loss: tensor(173.6104, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 54
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 55 	Training Loss: 49.380727
+Number of test 55
+Loss: tensor(207.2975, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 55
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 56 	Training Loss: 50.290000
+Number of test 56
+Loss: tensor(172.9501, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 56
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 57 	Training Loss: 47.972841
+Number of test 57
+Loss: tensor(188.6263, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 57
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 58 	Training Loss: 49.564583
+Number of test 58
+Loss: tensor(212.3533, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 58
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 59 	Training Loss: 48.878982
+Number of test 59
+Loss: tensor(207.3988, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 59
+Pass rate:0.8736842105263158
+Train version: 3
+Test version: 3
+Epoch: 60 	Training Loss: 47.984321
+Number of test 60
+Loss: tensor(169.8628, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 60
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 61 	Training Loss: 46.434682
+Number of test 61
+Loss: tensor(186.3466, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 61
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 62 	Training Loss: 49.866562
+Number of test 62
+Loss: tensor(209.0250, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 62
+Pass rate:0.8631578947368421
+Train version: 3
+Test version: 3
+Epoch: 63 	Training Loss: 44.933838
+Number of test 63
+Loss: tensor(185.9479, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 63
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 64 	Training Loss: 45.465589
+Number of test 64
+Loss: tensor(185.4174, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 64
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 65 	Training Loss: 44.380960
+Number of test 65
+Loss: tensor(189.3096, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 65
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 66 	Training Loss: 44.624406
+Number of test 66
+Loss: tensor(201.9641, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 66
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 67 	Training Loss: 47.181374
+Number of test 67
+Loss: tensor(172.7861, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 67
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 68 	Training Loss: 44.227185
+Number of test 68
+Loss: tensor(164.8825, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 68
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 69 	Training Loss: 45.713727
+Number of test 69
+Loss: tensor(164.0556, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 69
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 70 	Training Loss: 43.943661
+Number of test 70
+Loss: tensor(187.2325, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 70
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 71 	Training Loss: 42.414596
+Number of test 71
+Loss: tensor(189.6448, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 71
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 72 	Training Loss: 42.284907
+Number of test 72
+Loss: tensor(170.0973, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 72
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 73 	Training Loss: 40.704564
+Number of test 73
+Loss: tensor(170.5075, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 73
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 74 	Training Loss: 40.989439
+Number of test 74
+Loss: tensor(163.8600, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 74
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 75 	Training Loss: 40.171308
+Number of test 75
+Loss: tensor(205.8588, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 75
+Pass rate:0.8736842105263158
+Train version: 3
+Test version: 3
+Epoch: 76 	Training Loss: 39.443280
+Number of test 76
+Loss: tensor(155.3465, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 76
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 77 	Training Loss: 42.324678
+Number of test 77
+Loss: tensor(167.6833, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 77
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 78 	Training Loss: 40.409149
+Number of test 78
+Loss: tensor(181.6397, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 78
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 79 	Training Loss: 39.991375
+Number of test 79
+Loss: tensor(168.2334, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 79
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 80 	Training Loss: 40.685972
+Number of test 80
+Loss: tensor(170.7187, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 80
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 81 	Training Loss: 39.912400
+Number of test 81
+Loss: tensor(175.5602, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 81
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 82 	Training Loss: 38.184973
+Number of test 82
+Loss: tensor(188.3931, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 82
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 83 	Training Loss: 41.964263
+Number of test 83
+Loss: tensor(179.3828, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 83
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 84 	Training Loss: 37.433991
+Number of test 84
+Loss: tensor(173.9626, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 84
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 85 	Training Loss: 38.255576
+Number of test 85
+Loss: tensor(153.7763, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 85
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 86 	Training Loss: 37.638703
+Number of test 86
+Loss: tensor(153.2612, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 86
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 87 	Training Loss: 35.910076
+Number of test 87
+Loss: tensor(160.6024, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 87
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 88 	Training Loss: 38.172102
+Number of test 88
+Loss: tensor(169.3613, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 88
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 89 	Training Loss: 38.407422
+Number of test 89
+Loss: tensor(174.6604, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 89
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 90 	Training Loss: 35.152653
+Number of test 90
+Loss: tensor(173.3841, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 90
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 91 	Training Loss: 39.119677
+Number of test 91
+Loss: tensor(152.2364, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 91
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 92 	Training Loss: 35.946952
+Number of test 92
+Loss: tensor(138.4156, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 92
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 93 	Training Loss: 35.417091
+Number of test 93
+Loss: tensor(177.3441, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 93
+Pass rate:0.8631578947368421
+Train version: 3
+Test version: 3
+Epoch: 94 	Training Loss: 36.300779
+Number of test 94
+Loss: tensor(151.4004, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 94
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 95 	Training Loss: 33.863146
+Number of test 95
+Loss: tensor(166.1594, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 95
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 96 	Training Loss: 34.929533
+Number of test 96
+Loss: tensor(138.2944, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 96
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 97 	Training Loss: 35.735151
+Number of test 97
+Loss: tensor(145.5572, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 97
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 98 	Training Loss: 35.981825
+Number of test 98
+Loss: tensor(159.2653, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 98
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 99 	Training Loss: 34.639783
+Number of test 99
+Loss: tensor(179.1138, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 99
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 100 	Training Loss: 32.738535
+Number of test 100
+Loss: tensor(169.2224, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 100
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 101 	Training Loss: 33.826612
+Number of test 101
+Loss: tensor(152.7745, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 101
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 102 	Training Loss: 34.502797
+Number of test 102
+Loss: tensor(169.2378, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 102
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 103 	Training Loss: 34.274607
+Number of test 103
+Loss: tensor(163.9170, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 103
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 104 	Training Loss: 31.797059
+Number of test 104
+Loss: tensor(157.7903, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 104
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 105 	Training Loss: 34.236093
+Number of test 105
+Loss: tensor(155.8001, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 105
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 106 	Training Loss: 33.490975
+Number of test 106
+Loss: tensor(154.2999, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 106
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 107 	Training Loss: 30.665827
+Number of test 107
+Loss: tensor(158.5444, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 107
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 108 	Training Loss: 32.886274
+Number of test 108
+Loss: tensor(141.2872, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 108
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 109 	Training Loss: 32.934577
+Number of test 109
+Loss: tensor(153.1023, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 109
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 110 	Training Loss: 31.647323
+Number of test 110
+Loss: tensor(161.1385, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 110
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 111 	Training Loss: 31.492477
+Number of test 111
+Loss: tensor(147.3801, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 111
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 112 	Training Loss: 32.358151
+Number of test 112
+Loss: tensor(145.4717, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 112
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 113 	Training Loss: 33.067902
+Number of test 113
+Loss: tensor(158.2620, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 113
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 114 	Training Loss: 33.501198
+Number of test 114
+Loss: tensor(152.2063, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 114
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 115 	Training Loss: 32.347787
+Number of test 115
+Loss: tensor(156.5897, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 115
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 116 	Training Loss: 31.494678
+Number of test 116
+Loss: tensor(173.5687, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 116
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 117 	Training Loss: 29.860082
+Number of test 117
+Loss: tensor(154.0994, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 117
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 118 	Training Loss: 30.200566
+Number of test 118
+Loss: tensor(151.4123, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 118
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 119 	Training Loss: 30.176229
+Number of test 119
+Loss: tensor(140.6175, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 119
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 120 	Training Loss: 29.762667
+Number of test 120
+Loss: tensor(152.3620, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 120
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 121 	Training Loss: 30.246579
+Number of test 121
+Loss: tensor(159.6209, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 121
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 122 	Training Loss: 28.493804
+Number of test 122
+Loss: tensor(159.7060, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 122
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 123 	Training Loss: 29.804386
+Number of test 123
+Loss: tensor(155.0711, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 123
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 124 	Training Loss: 30.317524
+Number of test 124
+Loss: tensor(147.2722, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 124
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 125 	Training Loss: 28.439260
+Number of test 125
+Loss: tensor(154.9564, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 125
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 126 	Training Loss: 29.054484
+Number of test 126
+Loss: tensor(154.6206, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 126
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 127 	Training Loss: 30.080953
+Number of test 127
+Loss: tensor(157.2582, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 127
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 128 	Training Loss: 28.969945
+Number of test 128
+Loss: tensor(158.3013, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 128
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 129 	Training Loss: 30.334232
+Number of test 129
+Loss: tensor(142.3247, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 129
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 130 	Training Loss: 28.773444
+Number of test 130
+Loss: tensor(171.4185, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 130
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 131 	Training Loss: 27.405726
+Number of test 131
+Loss: tensor(149.8686, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 131
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 132 	Training Loss: 28.192596
+Number of test 132
+Loss: tensor(158.3709, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 132
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 133 	Training Loss: 29.056956
+Number of test 133
+Loss: tensor(135.5753, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 133
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 134 	Training Loss: 26.232108
+Number of test 134
+Loss: tensor(152.1742, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 134
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 135 	Training Loss: 29.661702
+Number of test 135
+Loss: tensor(146.6082, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 135
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 136 	Training Loss: 26.236563
+Number of test 136
+Loss: tensor(155.9655, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 136
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 137 	Training Loss: 26.726530
+Number of test 137
+Loss: tensor(173.4145, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 137
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 138 	Training Loss: 27.320077
+Number of test 138
+Loss: tensor(155.7344, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 138
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 139 	Training Loss: 25.384628
+Number of test 139
+Loss: tensor(143.0804, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 139
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 140 	Training Loss: 26.102961
+Number of test 140
+Loss: tensor(143.3396, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 140
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 141 	Training Loss: 27.701743
+Number of test 141
+Loss: tensor(135.3618, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 141
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 142 	Training Loss: 26.407453
+Number of test 142
+Loss: tensor(145.6508, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 142
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 143 	Training Loss: 26.528156
+Number of test 143
+Loss: tensor(139.7810, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 143
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 144 	Training Loss: 26.909861
+Number of test 144
+Loss: tensor(129.7995, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 144
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 145 	Training Loss: 25.745426
+Number of test 145
+Loss: tensor(124.5979, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 145
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 146 	Training Loss: 29.452128
+Number of test 146
+Loss: tensor(140.1178, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 146
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 147 	Training Loss: 26.319299
+Number of test 147
+Loss: tensor(157.9812, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 147
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 148 	Training Loss: 24.346266
+Number of test 148
+Loss: tensor(136.6981, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 148
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 149 	Training Loss: 24.935896
+Number of test 149
+Loss: tensor(130.9898, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 149
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 150 	Training Loss: 27.757895
+Number of test 150
+Loss: tensor(138.1761, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 150
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 151 	Training Loss: 25.673266
+Number of test 151
+Loss: tensor(135.5135, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 151
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 152 	Training Loss: 23.925038
+Number of test 152
+Loss: tensor(136.7652, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 152
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 153 	Training Loss: 26.065096
+Number of test 153
+Loss: tensor(155.4844, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 153
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 154 	Training Loss: 25.422366
+Number of test 154
+Loss: tensor(151.1407, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 154
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 155 	Training Loss: 23.229166
+Number of test 155
+Loss: tensor(148.5683, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 155
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 156 	Training Loss: 25.927279
+Number of test 156
+Loss: tensor(146.5992, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 156
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 157 	Training Loss: 24.046275
+Number of test 157
+Loss: tensor(148.7373, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 157
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 158 	Training Loss: 24.335870
+Number of test 158
+Loss: tensor(142.2460, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 158
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 159 	Training Loss: 24.922545
+Number of test 159
+Loss: tensor(126.9137, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 159
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 160 	Training Loss: 26.358415
+Number of test 160
+Loss: tensor(143.9612, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 160
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 161 	Training Loss: 25.377425
+Number of test 161
+Loss: tensor(133.2665, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 161
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 162 	Training Loss: 23.723848
+Number of test 162
+Loss: tensor(150.7635, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 162
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 163 	Training Loss: 24.870172
+Number of test 163
+Loss: tensor(149.3615, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 163
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 164 	Training Loss: 23.368211
+Number of test 164
+Loss: tensor(128.3024, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 164
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 165 	Training Loss: 25.904039
+Number of test 165
+Loss: tensor(140.6378, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 165
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 166 	Training Loss: 25.085388
+Number of test 166
+Loss: tensor(130.5473, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 166
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 167 	Training Loss: 23.897861
+Number of test 167
+Loss: tensor(135.7531, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 167
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 168 	Training Loss: 23.016476
+Number of test 168
+Loss: tensor(124.7117, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 168
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 169 	Training Loss: 23.010675
+Number of test 169
+Loss: tensor(122.0722, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 169
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 170 	Training Loss: 25.517992
+Number of test 170
+Loss: tensor(141.7619, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 170
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 171 	Training Loss: 23.091867
+Number of test 171
+Loss: tensor(135.0498, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 171
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 172 	Training Loss: 25.766691
+Number of test 172
+Loss: tensor(129.4703, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 172
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 173 	Training Loss: 23.328094
+Number of test 173
+Loss: tensor(154.5816, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 173
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 174 	Training Loss: 23.216683
+Number of test 174
+Loss: tensor(130.1751, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 174
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 175 	Training Loss: 23.004738
+Number of test 175
+Loss: tensor(156.5155, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 175
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 176 	Training Loss: 24.160534
+Number of test 176
+Loss: tensor(125.8022, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 176
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 177 	Training Loss: 22.461814
+Number of test 177
+Loss: tensor(153.0988, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 177
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 178 	Training Loss: 22.558382
+Number of test 178
+Loss: tensor(142.9126, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 178
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 179 	Training Loss: 22.724075
+Number of test 179
+Loss: tensor(155.1143, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 179
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 180 	Training Loss: 24.951511
+Number of test 180
+Loss: tensor(133.3330, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 180
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 181 	Training Loss: 19.868253
+Number of test 181
+Loss: tensor(152.0121, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 181
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 182 	Training Loss: 23.027181
+Number of test 182
+Loss: tensor(132.0053, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 182
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 183 	Training Loss: 20.797771
+Number of test 183
+Loss: tensor(135.0619, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 183
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 184 	Training Loss: 22.763590
+Number of test 184
+Loss: tensor(134.9279, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 184
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 185 	Training Loss: 23.724950
+Number of test 185
+Loss: tensor(124.6079, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 185
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 186 	Training Loss: 21.270066
+Number of test 186
+Loss: tensor(141.7347, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 186
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 187 	Training Loss: 23.060169
+Number of test 187
+Loss: tensor(137.8541, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 187
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 188 	Training Loss: 22.469186
+Number of test 188
+Loss: tensor(125.3167, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 188
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 189 	Training Loss: 23.329420
+Number of test 189
+Loss: tensor(144.4915, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 189
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 190 	Training Loss: 20.868304
+Number of test 190
+Loss: tensor(138.5886, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 190
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 191 	Training Loss: 21.972365
+Number of test 191
+Loss: tensor(138.5094, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 191
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 192 	Training Loss: 23.485153
+Number of test 192
+Loss: tensor(146.1929, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 192
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 193 	Training Loss: 22.357805
+Number of test 193
+Loss: tensor(134.7278, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 193
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 194 	Training Loss: 21.136790
+Number of test 194
+Loss: tensor(117.9638, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 194
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 195 	Training Loss: 20.130392
+Number of test 195
+Loss: tensor(130.2030, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 195
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 196 	Training Loss: 20.863262
+Number of test 196
+Loss: tensor(141.8026, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 196
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 197 	Training Loss: 22.358947
+Number of test 197
+Loss: tensor(134.7343, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 197
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 198 	Training Loss: 19.898284
+Number of test 198
+Loss: tensor(137.1714, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 198
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 199 	Training Loss: 21.013938
+Number of test 199
+Loss: tensor(145.7309, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 199
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 200 	Training Loss: 20.847491
+Number of test 200
+Loss: tensor(132.6994, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 200
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 201 	Training Loss: 21.767426
+Number of test 201
+Loss: tensor(130.8420, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 201
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 202 	Training Loss: 19.820452
+Number of test 202
+Loss: tensor(139.1307, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 202
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 203 	Training Loss: 22.146320
+Number of test 203
+Loss: tensor(137.4112, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 203
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 204 	Training Loss: 22.336993
+Number of test 204
+Loss: tensor(144.9086, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 204
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 205 	Training Loss: 19.851577
+Number of test 205
+Loss: tensor(138.0283, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 205
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 206 	Training Loss: 20.790094
+Number of test 206
+Loss: tensor(124.6973, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 206
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 207 	Training Loss: 20.299825
+Number of test 207
+Loss: tensor(135.2440, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 207
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 208 	Training Loss: 21.122849
+Number of test 208
+Loss: tensor(142.5518, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 208
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 209 	Training Loss: 21.054388
+Number of test 209
+Loss: tensor(151.8760, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 209
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 210 	Training Loss: 19.898687
+Number of test 210
+Loss: tensor(134.1981, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 210
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 211 	Training Loss: 19.413647
+Number of test 211
+Loss: tensor(129.6120, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 211
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 212 	Training Loss: 18.761197
+Number of test 212
+Loss: tensor(153.0404, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 212
+Pass rate:0.8736842105263158
+Train version: 3
+Test version: 3
+Epoch: 213 	Training Loss: 20.380337
+Number of test 213
+Loss: tensor(138.0694, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 213
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 214 	Training Loss: 19.635983
+Number of test 214
+Loss: tensor(143.4399, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 214
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 215 	Training Loss: 19.367373
+Number of test 215
+Loss: tensor(152.4790, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 215
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 216 	Training Loss: 20.282357
+Number of test 216
+Loss: tensor(137.8630, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 216
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 217 	Training Loss: 19.608965
+Number of test 217
+Loss: tensor(129.0260, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 217
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 218 	Training Loss: 18.958631
+Number of test 218
+Loss: tensor(123.2436, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 218
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 219 	Training Loss: 18.314774
+Number of test 219
+Loss: tensor(137.2265, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 219
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 220 	Training Loss: 19.282238
+Number of test 220
+Loss: tensor(145.9155, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 220
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 221 	Training Loss: 20.206773
+Number of test 221
+Loss: tensor(135.6946, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 221
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 222 	Training Loss: 18.811681
+Number of test 222
+Loss: tensor(145.2564, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 222
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 223 	Training Loss: 20.587201
+Number of test 223
+Loss: tensor(127.4554, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 223
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 224 	Training Loss: 20.564495
+Number of test 224
+Loss: tensor(131.0031, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 224
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 225 	Training Loss: 18.351119
+Number of test 225
+Loss: tensor(123.8200, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 225
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 226 	Training Loss: 19.371157
+Number of test 226
+Loss: tensor(135.2895, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 226
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 227 	Training Loss: 20.092656
+Number of test 227
+Loss: tensor(165.9070, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 227
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 228 	Training Loss: 19.136989
+Number of test 228
+Loss: tensor(147.4308, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 228
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 229 	Training Loss: 19.619010
+Number of test 229
+Loss: tensor(131.6905, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 229
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 230 	Training Loss: 18.119372
+Number of test 230
+Loss: tensor(123.7967, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 230
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 231 	Training Loss: 18.987808
+Number of test 231
+Loss: tensor(121.5503, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 231
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 232 	Training Loss: 18.196474
+Number of test 232
+Loss: tensor(132.5249, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 232
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 233 	Training Loss: 18.177286
+Number of test 233
+Loss: tensor(123.7889, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 233
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 234 	Training Loss: 19.229145
+Number of test 234
+Loss: tensor(134.8869, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 234
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 235 	Training Loss: 17.438210
+Number of test 235
+Loss: tensor(127.4922, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 235
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 236 	Training Loss: 19.044814
+Number of test 236
+Loss: tensor(135.4993, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 236
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 237 	Training Loss: 18.194908
+Number of test 237
+Loss: tensor(137.1282, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 237
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 238 	Training Loss: 18.768265
+Number of test 238
+Loss: tensor(123.8826, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 238
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 239 	Training Loss: 18.409848
+Number of test 239
+Loss: tensor(124.8912, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 239
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 240 	Training Loss: 19.338716
+Number of test 240
+Loss: tensor(131.1454, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 240
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 241 	Training Loss: 19.221188
+Number of test 241
+Loss: tensor(132.1637, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 241
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 242 	Training Loss: 18.418109
+Number of test 242
+Loss: tensor(134.7020, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 242
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 243 	Training Loss: 17.902803
+Number of test 243
+Loss: tensor(124.4704, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 243
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 244 	Training Loss: 17.226349
+Number of test 244
+Loss: tensor(127.2023, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 244
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 245 	Training Loss: 19.555604
+Number of test 245
+Loss: tensor(149.8984, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 245
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 246 	Training Loss: 17.544537
+Number of test 246
+Loss: tensor(125.0395, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 246
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 247 	Training Loss: 18.444605
+Number of test 247
+Loss: tensor(151.7840, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 247
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 248 	Training Loss: 17.477885
+Number of test 248
+Loss: tensor(137.5601, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 248
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 249 	Training Loss: 17.507020
+Number of test 249
+Loss: tensor(136.9163, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 249
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 250 	Training Loss: 18.443992
+Number of test 250
+Loss: tensor(146.4463, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 250
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 251 	Training Loss: 17.930038
+Number of test 251
+Loss: tensor(135.3078, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 251
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 252 	Training Loss: 17.907011
+Number of test 252
+Loss: tensor(137.7567, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 252
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 253 	Training Loss: 18.385895
+Number of test 253
+Loss: tensor(146.6188, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 253
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 254 	Training Loss: 16.437494
+Number of test 254
+Loss: tensor(149.7275, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 254
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 255 	Training Loss: 18.034043
+Number of test 255
+Loss: tensor(120.7693, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 255
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 256 	Training Loss: 17.639067
+Number of test 256
+Loss: tensor(130.8379, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 256
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 257 	Training Loss: 18.554369
+Number of test 257
+Loss: tensor(131.3741, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 257
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 258 	Training Loss: 18.173681
+Number of test 258
+Loss: tensor(147.1700, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 258
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 259 	Training Loss: 17.203826
+Number of test 259
+Loss: tensor(162.4516, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 259
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 260 	Training Loss: 17.214211
+Number of test 260
+Loss: tensor(117.2672, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 260
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 261 	Training Loss: 17.208084
+Number of test 261
+Loss: tensor(124.1706, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 261
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 262 	Training Loss: 16.835595
+Number of test 262
+Loss: tensor(106.2425, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 262
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 263 	Training Loss: 15.533072
+Number of test 263
+Loss: tensor(139.7158, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 263
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 264 	Training Loss: 17.781625
+Number of test 264
+Loss: tensor(115.1520, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 264
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 265 	Training Loss: 16.355848
+Number of test 265
+Loss: tensor(133.8602, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 265
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 266 	Training Loss: 18.012593
+Number of test 266
+Loss: tensor(137.1814, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 266
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 267 	Training Loss: 16.001171
+Number of test 267
+Loss: tensor(148.6861, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 267
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 268 	Training Loss: 16.468513
+Number of test 268
+Loss: tensor(122.7481, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 268
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 269 	Training Loss: 18.046118
+Number of test 269
+Loss: tensor(124.3886, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 269
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 270 	Training Loss: 17.782819
+Number of test 270
+Loss: tensor(127.4090, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 270
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 271 	Training Loss: 17.563125
+Number of test 271
+Loss: tensor(122.7251, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 271
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 272 	Training Loss: 18.310234
+Number of test 272
+Loss: tensor(133.4794, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 272
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 273 	Training Loss: 16.889739
+Number of test 273
+Loss: tensor(142.2830, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 273
+Pass rate:0.8736842105263158
+Train version: 3
+Test version: 3
+Epoch: 274 	Training Loss: 17.608978
+Number of test 274
+Loss: tensor(134.4163, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 274
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 275 	Training Loss: 17.372713
+Number of test 275
+Loss: tensor(155.1398, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 275
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 276 	Training Loss: 18.201252
+Number of test 276
+Loss: tensor(136.9750, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 276
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 277 	Training Loss: 16.635319
+Number of test 277
+Loss: tensor(140.7174, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 277
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 278 	Training Loss: 16.542681
+Number of test 278
+Loss: tensor(128.8364, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 278
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 279 	Training Loss: 16.015787
+Number of test 279
+Loss: tensor(122.5855, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 279
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 280 	Training Loss: 16.004176
+Number of test 280
+Loss: tensor(135.4446, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 280
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 281 	Training Loss: 17.989129
+Number of test 281
+Loss: tensor(123.3484, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 281
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 282 	Training Loss: 16.918184
+Number of test 282
+Loss: tensor(123.2376, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 282
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 283 	Training Loss: 16.203891
+Number of test 283
+Loss: tensor(140.1054, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 283
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 284 	Training Loss: 17.253607
+Number of test 284
+Loss: tensor(128.4505, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 284
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 285 	Training Loss: 15.390240
+Number of test 285
+Loss: tensor(147.5040, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 285
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 286 	Training Loss: 15.945268
+Number of test 286
+Loss: tensor(128.8012, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 286
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 287 	Training Loss: 17.334728
+Number of test 287
+Loss: tensor(119.6915, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 287
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 288 	Training Loss: 16.267329
+Number of test 288
+Loss: tensor(128.7952, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 288
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 289 	Training Loss: 16.114170
+Number of test 289
+Loss: tensor(130.2230, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 289
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 290 	Training Loss: 15.355377
+Number of test 290
+Loss: tensor(139.9554, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 290
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 291 	Training Loss: 15.892965
+Number of test 291
+Loss: tensor(137.6938, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 291
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 292 	Training Loss: 17.412431
+Number of test 292
+Loss: tensor(143.2524, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 292
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 293 	Training Loss: 16.102599
+Number of test 293
+Loss: tensor(131.5334, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 293
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 294 	Training Loss: 15.536842
+Number of test 294
+Loss: tensor(123.7218, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 294
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 295 	Training Loss: 16.470044
+Number of test 295
+Loss: tensor(122.6405, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 295
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 296 	Training Loss: 16.431470
+Number of test 296
+Loss: tensor(116.4742, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 296
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 297 	Training Loss: 15.436717
+Number of test 297
+Loss: tensor(121.7613, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 297
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 298 	Training Loss: 16.207178
+Number of test 298
+Loss: tensor(128.0055, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 298
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 299 	Training Loss: 17.130818
+Number of test 299
+Loss: tensor(132.5597, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 299
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 300 	Training Loss: 17.327918
+Number of test 300
+Loss: tensor(120.4814, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 300
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 301 	Training Loss: 15.574219
+Number of test 301
+Loss: tensor(121.6101, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 301
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 302 	Training Loss: 18.226973
+Number of test 302
+Loss: tensor(134.3683, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 302
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 303 	Training Loss: 14.705876
+Number of test 303
+Loss: tensor(136.1693, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 303
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 304 	Training Loss: 15.546324
+Number of test 304
+Loss: tensor(125.4346, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 304
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 305 	Training Loss: 15.358131
+Number of test 305
+Loss: tensor(122.7432, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 305
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 306 	Training Loss: 16.163782
+Number of test 306
+Loss: tensor(134.0372, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 306
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 307 	Training Loss: 16.323213
+Number of test 307
+Loss: tensor(121.0411, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 307
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 308 	Training Loss: 15.041472
+Number of test 308
+Loss: tensor(132.9575, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 308
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 309 	Training Loss: 14.850672
+Number of test 309
+Loss: tensor(119.1529, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 309
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 310 	Training Loss: 15.987146
+Number of test 310
+Loss: tensor(120.7246, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 310
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 311 	Training Loss: 14.679836
+Number of test 311
+Loss: tensor(141.5883, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 311
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 312 	Training Loss: 15.355534
+Number of test 312
+Loss: tensor(139.1803, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 312
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 313 	Training Loss: 16.371733
+Number of test 313
+Loss: tensor(121.0036, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 313
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 314 	Training Loss: 15.070655
+Number of test 314
+Loss: tensor(112.2075, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 314
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 315 	Training Loss: 16.117256
+Number of test 315
+Loss: tensor(135.5110, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 315
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 316 	Training Loss: 15.855332
+Number of test 316
+Loss: tensor(106.8516, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 316
+Pass rate:0.8842105263157894
+Train version: 3
+Test version: 3
+Epoch: 317 	Training Loss: 16.003164
+Number of test 317
+Loss: tensor(124.3042, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 317
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 318 	Training Loss: 13.777732
+Number of test 318
+Loss: tensor(116.9294, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 318
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 319 	Training Loss: 15.167473
+Number of test 319
+Loss: tensor(131.4110, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 319
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 320 	Training Loss: 15.976196
+Number of test 320
+Loss: tensor(127.7801, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 320
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 321 	Training Loss: 16.127744
+Number of test 321
+Loss: tensor(128.1803, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 321
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 322 	Training Loss: 15.477102
+Number of test 322
+Loss: tensor(125.0210, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 322
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 323 	Training Loss: 13.426088
+Number of test 323
+Loss: tensor(135.1910, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 323
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 324 	Training Loss: 14.693821
+Number of test 324
+Loss: tensor(126.8048, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 324
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 325 	Training Loss: 15.694371
+Number of test 325
+Loss: tensor(129.7897, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 325
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 326 	Training Loss: 14.810025
+Number of test 326
+Loss: tensor(137.1643, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 326
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 327 	Training Loss: 14.204855
+Number of test 327
+Loss: tensor(122.3259, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 327
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 328 	Training Loss: 14.732852
+Number of test 328
+Loss: tensor(116.8909, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 328
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 329 	Training Loss: 14.394724
+Number of test 329
+Loss: tensor(120.3422, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 329
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 330 	Training Loss: 15.143757
+Number of test 330
+Loss: tensor(125.4648, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 330
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 331 	Training Loss: 14.937188
+Number of test 331
+Loss: tensor(109.7291, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 331
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 332 	Training Loss: 13.457360
+Number of test 332
+Loss: tensor(142.1248, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 332
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 333 	Training Loss: 16.365114
+Number of test 333
+Loss: tensor(120.6373, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 333
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 334 	Training Loss: 13.570028
+Number of test 334
+Loss: tensor(140.5315, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 334
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 335 	Training Loss: 14.625838
+Number of test 335
+Loss: tensor(130.5595, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 335
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 336 	Training Loss: 14.666945
+Number of test 336
+Loss: tensor(134.8561, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 336
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 337 	Training Loss: 13.701667
+Number of test 337
+Loss: tensor(113.5168, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 337
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 338 	Training Loss: 14.879851
+Number of test 338
+Loss: tensor(121.3256, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 338
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 339 	Training Loss: 14.400540
+Number of test 339
+Loss: tensor(136.9001, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 339
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 340 	Training Loss: 13.784124
+Number of test 340
+Loss: tensor(124.8891, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 340
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 341 	Training Loss: 14.110466
+Number of test 341
+Loss: tensor(127.6455, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 341
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 342 	Training Loss: 14.030477
+Number of test 342
+Loss: tensor(136.3071, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 342
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 343 	Training Loss: 15.743418
+Number of test 343
+Loss: tensor(140.1003, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 343
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 344 	Training Loss: 13.949143
+Number of test 344
+Loss: tensor(137.3965, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 344
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 345 	Training Loss: 13.874863
+Number of test 345
+Loss: tensor(125.4982, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 345
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 346 	Training Loss: 15.609423
+Number of test 346
+Loss: tensor(118.5379, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 346
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 347 	Training Loss: 14.868680
+Number of test 347
+Loss: tensor(128.6221, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 347
+Pass rate:0.8947368421052632
+Train version: 3
+Test version: 3
+Epoch: 348 	Training Loss: 14.712355
+Number of test 348
+Loss: tensor(129.9375, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 348
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 349 	Training Loss: 13.940980
+Number of test 349
+Loss: tensor(119.8293, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 349
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 350 	Training Loss: 14.279044
+Number of test 350
+Loss: tensor(121.6798, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 350
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 351 	Training Loss: 13.481668
+Number of test 351
+Loss: tensor(116.1585, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 351
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 352 	Training Loss: 14.582048
+Number of test 352
+Loss: tensor(133.8496, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 352
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 353 	Training Loss: 13.517354
+Number of test 353
+Loss: tensor(124.8244, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 353
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 354 	Training Loss: 13.918281
+Number of test 354
+Loss: tensor(117.1235, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 354
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 355 	Training Loss: 14.124754
+Number of test 355
+Loss: tensor(121.5982, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 355
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 356 	Training Loss: 13.588286
+Number of test 356
+Loss: tensor(126.6456, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 356
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 357 	Training Loss: 15.697140
+Number of test 357
+Loss: tensor(135.2216, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 357
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 358 	Training Loss: 14.591799
+Number of test 358
+Loss: tensor(130.4709, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 358
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 359 	Training Loss: 13.498280
+Number of test 359
+Loss: tensor(132.2014, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 359
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 360 	Training Loss: 14.646434
+Number of test 360
+Loss: tensor(127.2040, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 360
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 361 	Training Loss: 14.423763
+Number of test 361
+Loss: tensor(128.2608, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 361
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 362 	Training Loss: 14.940031
+Number of test 362
+Loss: tensor(126.6842, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 362
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 363 	Training Loss: 12.976514
+Number of test 363
+Loss: tensor(139.1059, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 363
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 364 	Training Loss: 14.102885
+Number of test 364
+Loss: tensor(127.5199, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 364
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 365 	Training Loss: 14.216690
+Number of test 365
+Loss: tensor(131.0302, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 365
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 366 	Training Loss: 13.923036
+Number of test 366
+Loss: tensor(128.7070, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 366
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 367 	Training Loss: 13.799764
+Number of test 367
+Loss: tensor(135.8496, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 367
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 368 	Training Loss: 15.027247
+Number of test 368
+Loss: tensor(144.2701, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 368
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 369 	Training Loss: 14.405449
+Number of test 369
+Loss: tensor(129.4677, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 369
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 370 	Training Loss: 13.216839
+Number of test 370
+Loss: tensor(127.8661, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 370
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 371 	Training Loss: 14.727463
+Number of test 371
+Loss: tensor(139.4834, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 371
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 372 	Training Loss: 13.298403
+Number of test 372
+Loss: tensor(117.0466, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 372
+Pass rate:1.0
+Train version: 3
+Test version: 3
+Epoch: 373 	Training Loss: 13.037726
+Number of test 373
+Loss: tensor(115.3457, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 373
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 374 	Training Loss: 14.151461
+Number of test 374
+Loss: tensor(131.5704, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 374
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 375 	Training Loss: 13.470169
+Number of test 375
+Loss: tensor(136.8746, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 375
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 376 	Training Loss: 14.229686
+Number of test 376
+Loss: tensor(145.6873, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 376
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 377 	Training Loss: 14.053014
+Number of test 377
+Loss: tensor(113.5414, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 377
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 378 	Training Loss: 14.101761
+Number of test 378
+Loss: tensor(125.1563, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 378
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 379 	Training Loss: 14.196085
+Number of test 379
+Loss: tensor(131.0948, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 379
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 380 	Training Loss: 13.380316
+Number of test 380
+Loss: tensor(119.8106, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 380
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 381 	Training Loss: 12.888121
+Number of test 381
+Loss: tensor(139.7554, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 381
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 382 	Training Loss: 13.339625
+Number of test 382
+Loss: tensor(129.9134, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 382
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 383 	Training Loss: 12.958765
+Number of test 383
+Loss: tensor(125.7522, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 383
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 384 	Training Loss: 13.371233
+Number of test 384
+Loss: tensor(127.1572, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 384
+Pass rate:0.9578947368421052
+Train version: 3
+Test version: 3
+Epoch: 385 	Training Loss: 13.531114
+Number of test 385
+Loss: tensor(131.5916, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 385
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 386 	Training Loss: 13.009226
+Number of test 386
+Loss: tensor(129.8212, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 386
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 387 	Training Loss: 14.192530
+Number of test 387
+Loss: tensor(121.0912, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 387
+Pass rate:0.9789473684210527
+Train version: 3
+Test version: 3
+Epoch: 388 	Training Loss: 13.397393
+Number of test 388
+Loss: tensor(112.7904, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 388
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 389 	Training Loss: 12.855212
+Number of test 389
+Loss: tensor(114.7037, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 389
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 390 	Training Loss: 13.224574
+Number of test 390
+Loss: tensor(120.3622, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 390
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 391 	Training Loss: 13.524656
+Number of test 391
+Loss: tensor(100.0150, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 391
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 392 	Training Loss: 13.692259
+Number of test 392
+Loss: tensor(146.4765, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 392
+Pass rate:0.9157894736842105
+Train version: 3
+Test version: 3
+Epoch: 393 	Training Loss: 11.954749
+Number of test 393
+Loss: tensor(132.9933, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 393
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 394 	Training Loss: 13.304728
+Number of test 394
+Loss: tensor(113.4982, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 394
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 395 	Training Loss: 14.134678
+Number of test 395
+Loss: tensor(133.3662, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 395
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 396 	Training Loss: 14.381789
+Number of test 396
+Loss: tensor(117.3139, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 396
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 397 	Training Loss: 12.831297
+Number of test 397
+Loss: tensor(119.8919, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 397
+Pass rate:0.8736842105263158
+Train version: 3
+Test version: 3
+Epoch: 398 	Training Loss: 12.356510
+Number of test 398
+Loss: tensor(130.0524, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 398
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 399 	Training Loss: 13.446471
+Number of test 399
+Loss: tensor(131.7568, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 399
+Pass rate:0.9052631578947369
+Train version: 3
+Test version: 3
+Epoch: 400 	Training Loss: 13.013256
+Number of test 400
+Loss: tensor(120.9146, device='cuda:0', grad_fn=<DivBackward0>)
+Number of training 400
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3

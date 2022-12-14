@@ -5,7 +5,9 @@ import os
 import numpy as np
 
 
-VERSION = 5
+VERSION = 3
+DATA_PATH = './data_order/'
+OUTPUT_PATH = './data_order_transform/'
 
 
 def translate(address):
@@ -28,17 +30,8 @@ def translate(address):
 
 
 def get_info(is_train):
-    if is_train:
-        f = open('./train_set.txt')
-    else:
-        f = open('./test_set.txt')
-    data = {}
-    for line in f:
-        if line != '':
-            tmp = line.split(' ')
-            tmp[1] = float(tmp[1].replace('\n', ''))
-            data[tmp[0]] = tmp[1]
-    f.close()
+    # for file in ./data, get the name of the file
+    data=os.listdir(DATA_PATH)
     return data
 
 
@@ -58,9 +51,9 @@ def transform(data):
 
 def write_transform_output(item, is_train, output,version):
     if is_train:
-        f = open("./train_transform/version" + str(version) + "/"+ item + ".txt", "w")
+        f = open(OUTPUT_PATH + item , "w")
     else:
-        f = open("./test_transform/version" + str(version) + "/"+ item + ".txt", "w")
+        f = open(OUTPUT_PATH + item , "w")
         # print path
         # print("./test_transform/version" + str(version) + "/"+ item + ".txt")
     f.write(str(output))
@@ -71,39 +64,10 @@ def write_transform_output(item, is_train, output,version):
 def mul_transform(data, is_train, version=1):
     print("Version : " + str(version))
     for item in data:
-        if version == 3:
-            if is_train:
-                tmp = translate("./train_hhfilter/" + item + ".a3m")
-                if os.path.exists("./train_transform/version" + str(version) + "/"+ item + ".txt"):
-                    print(item + " already exist")
-                    continue
-            else:
-                tmp = translate("./test_hhfilter/" + item + ".a3m")
-                if os.path.exists("./test_transform/version" + str(version) + "/"+ item + ".txt"):
-                    print(item + " exist")
-                    continue
-        elif version == 0 or version == 1 or version == 2 or version == 4:
-            if is_train:
-                tmp = translate("./train/" + item + ".a3m")
-                if os.path.exists("./train_transform/version" + str(version) + "/"+ item + ".txt"):
-                    print(item + " already exist")
-                    continue
-            else:
-                tmp = translate("./test/" + item + ".a3m")
-                if os.path.exists("./test_transform/version" + str(version) + "/"+ item + ".txt"):
-                    print(item + " exist")
-                    continue
-        elif version == 5:
-            if is_train:
-                tmp = translate("./train_hhfilter/" + item + ".a3m")
-                if os.path.exists("./train_transform/version" + str(version) + "/"+ item + ".txt"):
-                    print(item + " already exist")
-                    continue
-            else:
-                tmp = translate("./test_hhfilter/" + item + ".a3m")
-                if os.path.exists("./test_transform/version" + str(version) + "/"+ item + ".txt"):
-                    print(item + " exist")
-                    continue
+        tmp = translate(DATA_PATH + item)
+        if os.path.exists(OUTPUT_PATH + item):
+            print(item + " exist")
+            continue
         
         # print version
         print(item + " begin:")
@@ -148,10 +112,11 @@ def mul_transform(data, is_train, version=1):
             # os._exit(0)
             
         elif version == 3:
-            tmp = tmp[:256]
+            # tmp = tmp[:256]
             matrix = transform(tmp)
-            output = matrix[0][0][0].tolist()
             print(matrix.shape)
+            output = matrix[0][0][0].tolist()
+            print(np.shape(output))
             
             write_transform_output(item, is_train, output,version)
         
