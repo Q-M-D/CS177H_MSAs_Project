@@ -14,3 +14,30 @@ accurately. Training data and test data set will be provided
 - [1] Jumper, J., Evans, R., Pritzel, A. et al. Highly accurate protein structure prediction with AlphaFold. Nature 596, 583–589, 2021. https://doi.org/10.1038/s41586-021-03819-2
 - [2] Rao R, Liu J, Verkuil R, Meier J, Canny JF, Abbeel P, et al. MSA Transformer. 2021. https://doi.org/10.1101/2021.02.12.430858
 - [3] https://predictioncenter.org/casp14/doc/presentations/
+
+# User menu
+
+Code Tree:
+```
+.
+├── README.md
+├── src
+│   ├── test
+│   ├── train
+│   ├── test_set.txt
+│   ├── train_set.txt
+│   ├── transformer.py
+│   └── hhfilter.py
+├── CNN.py
+├── MLP.py
+├── Linear.py
+├── result.csv
+├── MLP_model.pth
+└── verify.py
+```
+
+1. Put train and test data in `./src/train` and `./src/test` respectively.
+2. Run `./src/hhfilter.py` to filter the data. You may need to change the path of `hhfilter` in the code.
+3. Run `./srctransformer.py` to transform the data into the format that can be used by the model. The default method will use the data after filtering. You can change the method by `VERSION` define in the code.
+4. Run `MLP.py` to train the model. You can change the hyperparameters in the code.
+5. Run `verify.py` to verify the model. You can change the hyperparameters in the code.
