@@ -1,0 +1,1206 @@
+Epoch: 0        Training Loss: 3572.912934
+Number of training 0
+Pass rate:0.4222222222222222
+Loss : [[[3473.2195]]]
+Train version: 5
+Test version: 5
+Epoch: 1        Training Loss: 1828.492792
+Number of training 1
+Pass rate:0.4666666666666667
+Loss : [[[1526.4106]]]
+Train version: 5
+Test version: 5
+Epoch: 2        Training Loss: 730.735768
+Number of training 2
+Pass rate:0.4777777777777778
+Loss : [[[806.874]]]
+Train version: 5
+Test version: 5
+Epoch: 3        Training Loss: 521.800366
+Number of training 3
+Pass rate:0.7222222222222222
+Loss : [[[663.23035]]]
+Train version: 5
+Test version: 5
+Epoch: 4        Training Loss: 465.845616
+Number of training 4
+Pass rate:0.7666666666666667
+Loss : [[[604.19867]]]
+Train version: 5
+Test version: 5
+Epoch: 5        Training Loss: 423.557508
+Number of training 5
+Pass rate:0.8444444444444444
+Loss : [[[557.9167]]]
+Train version: 5
+Test version: 5
+Epoch: 6        Training Loss: 383.671356
+Number of training 6
+Pass rate:0.8888888888888888
+Loss : [[[512.02936]]]
+Train version: 5
+Test version: 5
+Epoch: 7        Training Loss: 345.174037
+Number of training 7
+Pass rate:0.8777777777777778
+Loss : [[[471.09396]]]
+Train version: 5
+Test version: 5
+Epoch: 8        Training Loss: 309.112944
+Number of training 8
+Pass rate:0.9222222222222223
+Loss : [[[434.81055]]]
+Train version: 5
+Test version: 5
+Epoch: 9        Training Loss: 277.124648
+Number of training 9
+Pass rate:0.9111111111111111
+Loss : [[[403.8556]]]
+Train version: 5
+Test version: 5
+Epoch: 10       Training Loss: 249.574662
+Number of training 10
+Pass rate:0.8888888888888888
+Loss : [[[377.81396]]]
+Train version: 5
+Test version: 5
+Epoch: 11       Training Loss: 225.939023
+Number of training 11
+Pass rate:0.9111111111111111
+Loss : [[[357.3781]]]
+Train version: 5
+Test version: 5
+Epoch: 12       Training Loss: 205.621649
+Number of training 12
+Pass rate:0.9111111111111111
+Loss : [[[340.00092]]]
+Train version: 5
+Test version: 5
+Epoch: 13       Training Loss: 187.650075
+Number of training 13
+Pass rate:0.9222222222222223
+Loss : [[[325.84192]]]
+Train version: 5
+Test version: 5
+Epoch: 14       Training Loss: 172.128196
+Number of training 14
+Pass rate:0.9111111111111111
+Loss : [[[314.23926]]]
+Train version: 5
+Test version: 5
+Epoch: 15       Training Loss: 158.909844
+Number of training 15
+Pass rate:0.9
+Loss : [[[304.90988]]]
+Train version: 5
+Test version: 5
+Epoch: 16       Training Loss: 147.098021
+Number of training 16
+Pass rate:0.9111111111111111
+Loss : [[[297.15723]]]
+Train version: 5
+Test version: 5
+Epoch: 17       Training Loss: 136.764442
+Number of training 17
+Pass rate:0.9111111111111111
+Loss : [[[290.71753]]]
+Train version: 5
+Test version: 5
+Epoch: 18       Training Loss: 127.853925
+Number of training 18
+Pass rate:0.9111111111111111
+Loss : [[[285.22565]]]
+Train version: 5
+Test version: 5
+Epoch: 19       Training Loss: 120.017771
+Number of training 19
+Pass rate:0.9222222222222223
+Loss : [[[281.39035]]]
+Train version: 5
+Test version: 5
+Epoch: 20       Training Loss: 112.949365
+Number of training 20
+Pass rate:0.9222222222222223
+Loss : [[[278.4154]]]
+Train version: 5
+Test version: 5
+Epoch: 21       Training Loss: 106.652947
+Number of training 21
+Pass rate:0.9333333333333333
+Loss : [[[275.28534]]]
+Train version: 5
+Test version: 5
+Epoch: 22       Training Loss: 100.743288
+Number of training 22
+Pass rate:0.9333333333333333
+Loss : [[[271.87164]]]
+Train version: 5
+Test version: 5
+Epoch: 23       Training Loss: 95.169444
+Number of training 23
+Pass rate:0.9333333333333333
+Loss : [[[268.69745]]]
+Train version: 5
+Test version: 5
+Epoch: 24       Training Loss: 90.102223
+Number of training 24
+Pass rate:0.9333333333333333
+Loss : [[[263.998]]]
+Train version: 5
+Test version: 5
+Epoch: 25       Training Loss: 85.402048
+Number of training 25
+Pass rate:0.9222222222222223
+Loss : [[[259.01477]]]
+Train version: 5
+Test version: 5
+Epoch: 26       Training Loss: 81.065091
+Number of training 26
+Pass rate:0.9333333333333333
+Loss : [[[255.19789]]]
+Train version: 5
+Test version: 5
+Epoch: 27       Training Loss: 76.955207
+Number of training 27
+Pass rate:0.9333333333333333
+Loss : [[[251.09242]]]
+Train version: 5
+Test version: 5
+Epoch: 28       Training Loss: 73.219550
+Number of training 28
+Pass rate:0.9333333333333333
+Loss : [[[246.88097]]]
+Train version: 5
+Test version: 5
+Epoch: 29       Training Loss: 69.677297
+Number of training 29
+Pass rate:0.9333333333333333
+Loss : [[[243.5508]]]
+Train version: 5
+Test version: 5
+Epoch: 30       Training Loss: 66.320220
+Number of training 30
+Pass rate:0.9333333333333333
+Loss : [[[239.65712]]]
+Train version: 5
+Test version: 5
+Epoch: 31       Training Loss: 63.221055
+Number of training 31
+Pass rate:0.9333333333333333
+Loss : [[[235.62291]]]
+Train version: 5
+Test version: 5
+Epoch: 32       Training Loss: 60.212080
+Number of training 32
+Pass rate:0.9333333333333333
+Loss : [[[231.68977]]]
+Train version: 5
+Test version: 5
+Epoch: 33       Training Loss: 57.392109
+Number of training 33
+Pass rate:0.9333333333333333
+Loss : [[[228.93343]]]
+Train version: 5
+Test version: 5
+Epoch: 34       Training Loss: 54.696940
+Number of training 34
+Pass rate:0.9333333333333333
+Loss : [[[225.16708]]]
+Train version: 5
+Test version: 5
+Epoch: 35       Training Loss: 52.023803
+Number of training 35
+Pass rate:0.9333333333333333
+Loss : [[[222.13971]]]
+Train version: 5
+Test version: 5
+Epoch: 36       Training Loss: 49.483444
+Number of training 36
+Pass rate:0.9333333333333333
+Loss : [[[219.22804]]]
+Train version: 5
+Test version: 5
+Epoch: 37       Training Loss: 47.116668
+Number of training 37
+Pass rate:0.9333333333333333
+Loss : [[[216.73218]]]
+Train version: 5
+Test version: 5
+Epoch: 38       Training Loss: 44.901607
+Number of training 38
+Pass rate:0.9333333333333333
+Loss : [[[213.23196]]]
+Train version: 5
+Test version: 5
+Epoch: 39       Training Loss: 42.737482
+Number of training 39
+Pass rate:0.9333333333333333
+Loss : [[[210.87196]]]
+Train version: 5
+Test version: 5
+Epoch: 40       Training Loss: 40.699709
+Number of training 40
+Pass rate:0.9333333333333333
+Loss : [[[208.5935]]]
+Train version: 5
+Test version: 5
+Epoch: 41       Training Loss: 38.786602
+Number of training 41
+Pass rate:0.9333333333333333
+Loss : [[[207.55185]]]
+Train version: 5
+Test version: 5
+Epoch: 42       Training Loss: 36.961360
+Number of training 42
+Pass rate:0.9333333333333333
+Loss : [[[204.77493]]]
+Train version: 5
+Test version: 5
+Epoch: 43       Training Loss: 35.227274
+Number of training 43
+Pass rate:0.9333333333333333
+Loss : [[[203.35701]]]
+Train version: 5
+Test version: 5
+Epoch: 44       Training Loss: 33.524136
+Number of training 44
+Pass rate:0.9333333333333333
+Loss : [[[200.89597]]]
+Train version: 5
+Test version: 5
+Epoch: 45       Training Loss: 31.899166
+Number of training 45
+Pass rate:0.9333333333333333
+Loss : [[[200.19823]]]
+Train version: 5
+Test version: 5
+Epoch: 46       Training Loss: 30.338540
+Number of training 46
+Pass rate:0.9333333333333333
+Loss : [[[198.73181]]]
+Train version: 5
+Test version: 5
+Epoch: 47       Training Loss: 28.877288
+Number of training 47
+Pass rate:0.9333333333333333
+Loss : [[[197.88573]]]
+Train version: 5
+Test version: 5
+Epoch: 48       Training Loss: 27.455076
+Number of training 48
+Pass rate:0.9333333333333333
+Loss : [[[197.93456]]]
+Train version: 5
+Test version: 5
+Epoch: 49       Training Loss: 26.139257
+Number of training 49
+Pass rate:0.9222222222222223
+Loss : [[[196.63837]]]
+Train version: 5
+Test version: 5
+Epoch: 50       Training Loss: 24.877210
+Number of training 50
+Pass rate:0.9222222222222223
+Loss : [[[195.85147]]]
+Train version: 5
+Test version: 5
+Epoch: 51       Training Loss: 23.657097
+Number of training 51
+Pass rate:0.9222222222222223
+Loss : [[[194.48534]]]
+Train version: 5
+Test version: 5
+Epoch: 52       Training Loss: 22.477103
+Number of training 52
+Pass rate:0.9222222222222223
+Loss : [[[193.79425]]]
+Train version: 5
+Test version: 5
+Epoch: 53       Training Loss: 21.408083
+Number of training 53
+Pass rate:0.9222222222222223
+Loss : [[[193.04599]]]
+Train version: 5
+Test version: 5
+Epoch: 54       Training Loss: 20.377128
+Number of training 54
+Pass rate:0.9222222222222223
+Loss : [[[192.7398]]]
+Train version: 5
+Test version: 5
+Epoch: 55       Training Loss: 19.327197
+Number of training 55
+Pass rate:0.9222222222222223
+Loss : [[[192.17941]]]
+Train version: 5
+Test version: 5
+Epoch: 56       Training Loss: 18.383763
+Number of training 56
+Pass rate:0.9222222222222223
+Loss : [[[191.67456]]]
+Train version: 5
+Test version: 5
+Epoch: 57       Training Loss: 17.474188
+Number of training 57
+Pass rate:0.9222222222222223
+Loss : [[[192.46555]]]
+Train version: 5
+Test version: 5
+Epoch: 58       Training Loss: 16.586498
+Number of training 58
+Pass rate:0.9333333333333333
+Loss : [[[192.19872]]]
+Train version: 5
+Test version: 5
+Epoch: 59       Training Loss: 15.793971
+Number of training 59
+Pass rate:0.9333333333333333
+Loss : [[[192.54698]]]
+Train version: 5
+Test version: 5
+Epoch: 60       Training Loss: 15.000237
+Number of training 60
+Pass rate:0.9333333333333333
+Loss : [[[192.78514]]]
+Train version: 5
+Test version: 5
+Epoch: 61       Training Loss: 14.251011
+Number of training 61
+Pass rate:0.9333333333333333
+Loss : [[[192.6963]]]
+Train version: 5
+Test version: 5
+Epoch: 62       Training Loss: 13.536922
+Number of training 62
+Pass rate:0.9333333333333333
+Loss : [[[191.9265]]]
+Train version: 5
+Test version: 5
+Epoch: 63       Training Loss: 12.827037
+Number of training 63
+Pass rate:0.9333333333333333
+Loss : [[[191.6384]]]
+Train version: 5
+Test version: 5
+Epoch: 64       Training Loss: 12.153575
+Number of training 64
+Pass rate:0.9333333333333333
+Loss : [[[190.45776]]]
+Train version: 5
+Test version: 5
+Epoch: 65       Training Loss: 11.555087
+Number of training 65
+Pass rate:0.9333333333333333
+Loss : [[[190.16241]]]
+Train version: 5
+Test version: 5
+Epoch: 66       Training Loss: 10.966066
+Number of training 66
+Pass rate:0.9333333333333333
+Loss : [[[189.99445]]]
+Train version: 5
+Test version: 5
+Epoch: 67       Training Loss: 10.425887
+Number of training 67
+Pass rate:0.9333333333333333
+Loss : [[[189.84158]]]
+Train version: 5
+Test version: 5
+Epoch: 68       Training Loss: 9.919191
+Number of training 68
+Pass rate:0.9333333333333333
+Loss : [[[189.59152]]]
+Train version: 5
+Test version: 5
+Epoch: 69       Training Loss: 9.422153
+Number of training 69
+Pass rate:0.9333333333333333
+Loss : [[[188.274]]]
+Train version: 5
+Test version: 5
+Epoch: 70       Training Loss: 8.971775
+Number of training 70
+Pass rate:0.9333333333333333
+Loss : [[[187.87422]]]
+Train version: 5
+Test version: 5
+Epoch: 71       Training Loss: 8.519445
+Number of training 71
+Pass rate:0.9333333333333333
+Loss : [[[187.82164]]]
+Train version: 5
+Test version: 5
+Epoch: 72       Training Loss: 8.103681
+Number of training 72
+Pass rate:0.9333333333333333
+Loss : [[[187.98637]]]
+Train version: 5
+Test version: 5
+Epoch: 73       Training Loss: 7.673269
+Number of training 73
+Pass rate:0.9333333333333333
+Loss : [[[187.22388]]]
+Train version: 5
+Test version: 5
+Epoch: 74       Training Loss: 7.284098
+Number of training 74
+Pass rate:0.9333333333333333
+Loss : [[[186.97076]]]
+Train version: 5
+Test version: 5
+Epoch: 75       Training Loss: 6.926529
+Number of training 75
+Pass rate:0.9333333333333333
+Loss : [[[186.89427]]]
+Train version: 5
+Test version: 5
+Epoch: 76       Training Loss: 6.563076
+Number of training 76
+Pass rate:0.9333333333333333
+Loss : [[[186.7955]]]
+Train version: 5
+Test version: 5
+Epoch: 77       Training Loss: 6.204210
+Number of training 77
+Pass rate:0.9333333333333333
+Loss : [[[186.57382]]]
+Train version: 5
+Test version: 5
+Epoch: 78       Training Loss: 5.854459
+Number of training 78
+Pass rate:0.9333333333333333
+Loss : [[[185.7339]]]
+Train version: 5
+Test version: 5
+Epoch: 79       Training Loss: 5.571362
+Number of training 79
+Pass rate:0.9333333333333333
+Loss : [[[185.99362]]]
+Train version: 5
+Test version: 5
+Epoch: 80       Training Loss: 5.256768
+Number of training 80
+Pass rate:0.9333333333333333
+Loss : [[[185.95152]]]
+Train version: 5
+Test version: 5
+Epoch: 81       Training Loss: 4.963000
+Number of training 81
+Pass rate:0.9333333333333333
+Loss : [[[185.91905]]]
+Train version: 5
+Test version: 5
+Epoch: 82       Training Loss: 4.696860
+Number of training 82
+Pass rate:0.9333333333333333
+Loss : [[[184.8505]]]
+Train version: 5
+Test version: 5
+Epoch: 83       Training Loss: 4.437836
+Number of training 83
+Pass rate:0.9333333333333333
+Loss : [[[185.16719]]]
+Train version: 5
+Test version: 5
+Epoch: 84       Training Loss: 4.188881
+Number of training 84
+Pass rate:0.9333333333333333
+Loss : [[[185.48442]]]
+Train version: 5
+Test version: 5
+Epoch: 85       Training Loss: 3.970687
+Number of training 85
+Pass rate:0.9333333333333333
+Loss : [[[185.8092]]]
+Train version: 5
+Test version: 5
+Epoch: 86       Training Loss: 3.717426
+Number of training 86
+Pass rate:0.9333333333333333
+Loss : [[[185.92867]]]
+Train version: 5
+Test version: 5
+Epoch: 87       Training Loss: 3.513837
+Number of training 87
+Pass rate:0.9444444444444444
+Loss : [[[185.58539]]]
+Train version: 5
+Test version: 5
+Epoch: 88       Training Loss: 3.297763
+Number of training 88
+Pass rate:0.9444444444444444
+Loss : [[[186.44681]]]
+Train version: 5
+Test version: 5
+Epoch: 89       Training Loss: 3.101238
+Number of training 89
+Pass rate:0.9444444444444444
+Loss : [[[185.60506]]]
+Train version: 5
+Test version: 5
+Epoch: 90       Training Loss: 2.931844
+Number of training 90
+Pass rate:0.9444444444444444
+Loss : [[[187.20183]]]
+Train version: 5
+Test version: 5
+Epoch: 91       Training Loss: 2.746387
+Number of training 91
+Pass rate:0.9444444444444444
+Loss : [[[188.84349]]]
+Train version: 5
+Test version: 5
+Epoch: 92       Training Loss: 2.581885
+Number of training 92
+Pass rate:0.9444444444444444
+Loss : [[[188.73396]]]
+Train version: 5
+Test version: 5
+Epoch: 93       Training Loss: 2.440369
+Number of training 93
+Pass rate:0.9333333333333333
+Loss : [[[189.72879]]]
+Train version: 5
+Test version: 5
+Epoch: 94       Training Loss: 2.305356
+Number of training 94
+Pass rate:0.9333333333333333
+Loss : [[[190.0074]]]
+Train version: 5
+Test version: 5
+Epoch: 95       Training Loss: 2.190863
+Number of training 95
+Pass rate:0.9444444444444444
+Loss : [[[189.6508]]]
+Train version: 5
+Test version: 5
+Epoch: 96       Training Loss: 2.068355
+Number of training 96
+Pass rate:0.9333333333333333
+Loss : [[[189.07811]]]
+Train version: 5
+Test version: 5
+Epoch: 97       Training Loss: 1.986065
+Number of training 97
+Pass rate:0.9333333333333333
+Loss : [[[189.6816]]]
+Train version: 5
+Test version: 5
+Epoch: 98       Training Loss: 1.917144
+Number of training 98
+Pass rate:0.9444444444444444
+Loss : [[[188.52936]]]
+Train version: 5
+Test version: 5
+Epoch: 99       Training Loss: 1.900691
+Number of training 99
+Pass rate:0.9333333333333333
+Loss : [[[186.81082]]]
+Train version: 5
+Test version: 5
+Epoch: 100      Training Loss: 1.860614
+Number of training 100
+Pass rate:0.9333333333333333
+Loss : [[[187.16867]]]
+Train version: 5
+Test version: 5
+Epoch: 101      Training Loss: 1.797630
+Number of training 101
+Pass rate:0.9333333333333333
+Loss : [[[186.32854]]]
+Train version: 5
+Test version: 5
+Epoch: 102      Training Loss: 1.752047
+Number of training 102
+Pass rate:0.9444444444444444
+Loss : [[[184.63828]]]
+Train version: 5
+Test version: 5
+Epoch: 103      Training Loss: 1.754028
+Number of training 103
+Pass rate:0.9222222222222223
+Loss : [[[184.98639]]]
+Train version: 5
+Test version: 5
+Epoch: 104      Training Loss: 1.745832
+Number of training 104
+Pass rate:0.9111111111111111
+Loss : [[[184.8994]]]
+Train version: 5
+Test version: 5
+Epoch: 105      Training Loss: 1.789443
+Number of training 105
+Pass rate:0.9
+Loss : [[[185.14328]]]
+Train version: 5
+Test version: 5
+Epoch: 106      Training Loss: 1.893375
+Number of training 106
+Pass rate:0.8888888888888888
+Loss : [[[186.28865]]]
+Train version: 5
+Test version: 5
+Epoch: 107      Training Loss: 2.028577
+Number of training 107
+Pass rate:0.8888888888888888
+Loss : [[[187.86604]]]
+Train version: 5
+Test version: 5
+Epoch: 108      Training Loss: 2.338451
+Number of training 108
+Pass rate:0.9
+Loss : [[[189.60864]]]
+Train version: 5
+Test version: 5
+Epoch: 109      Training Loss: 2.752428
+Number of training 109
+Pass rate:0.9111111111111111
+Loss : [[[191.86078]]]
+Train version: 5
+Test version: 5
+Epoch: 110      Training Loss: 3.536075
+Number of training 110
+Pass rate:0.9222222222222223
+Loss : [[[192.14336]]]
+Train version: 5
+Test version: 5
+Epoch: 111      Training Loss: 4.332679
+Number of training 111
+Pass rate:0.9111111111111111
+Loss : [[[189.09543]]]
+Train version: 5
+Test version: 5
+Epoch: 112      Training Loss: 4.542090
+Number of training 112
+Pass rate:0.9111111111111111
+Loss : [[[185.87881]]]
+Train version: 5
+Test version: 5
+Epoch: 113      Training Loss: 4.217013
+Number of training 113
+Pass rate:0.9222222222222223
+Loss : [[[184.57693]]]
+Train version: 5
+Test version: 5
+Epoch: 114      Training Loss: 3.855847
+Number of training 114
+Pass rate:0.9222222222222223
+Loss : [[[187.0031]]]
+Train version: 5
+Test version: 5
+Epoch: 115      Training Loss: 3.641000
+Number of training 115
+Pass rate:0.9222222222222223
+Loss : [[[192.21591]]]
+Train version: 5
+Test version: 5
+Epoch: 116      Training Loss: 3.679093
+Number of training 116
+Pass rate:0.9222222222222223
+Loss : [[[198.75447]]]
+Train version: 5
+Test version: 5
+Epoch: 117      Training Loss: 4.045337
+Number of training 117
+Pass rate:0.9222222222222223
+Loss : [[[205.17178]]]
+Train version: 5
+Test version: 5
+Epoch: 118      Training Loss: 4.561459
+Number of training 118
+Pass rate:0.9333333333333333
+Loss : [[[207.4777]]]
+Train version: 5
+Test version: 5
+Epoch: 119      Training Loss: 4.893115
+Number of training 119
+Pass rate:0.9333333333333333
+Loss : [[[207.65512]]]
+Train version: 5
+Test version: 5
+Epoch: 120      Training Loss: 4.793231
+Number of training 120
+Pass rate:0.9333333333333333
+Loss : [[[205.22734]]]
+Train version: 5
+Test version: 5
+Epoch: 121      Training Loss: 4.247168
+Number of training 121
+Pass rate:0.9333333333333333
+Loss : [[[201.56706]]]
+Train version: 5
+Test version: 5
+Epoch: 122      Training Loss: 3.714110
+Number of training 122
+Pass rate:0.9333333333333333
+Loss : [[[199.74307]]]
+Train version: 5
+Test version: 5
+Epoch: 123      Training Loss: 3.215531
+Number of training 123
+Pass rate:0.9222222222222223
+Loss : [[[197.6088]]]
+Train version: 5
+Test version: 5
+Epoch: 124      Training Loss: 2.780939
+Number of training 124
+Pass rate:0.9222222222222223
+Loss : [[[196.47359]]]
+Train version: 5
+Test version: 5
+Epoch: 125      Training Loss: 2.538035
+Number of training 125
+Pass rate:0.9222222222222223
+Loss : [[[198.18266]]]
+Train version: 5
+Test version: 5
+Epoch: 126      Training Loss: 2.491418
+Number of training 126
+Pass rate:0.9222222222222223
+Loss : [[[195.76245]]]
+Train version: 5
+Test version: 5
+Epoch: 127      Training Loss: 2.622404
+Number of training 127
+Pass rate:0.9222222222222223
+Loss : [[[194.0896]]]
+Train version: 5
+Test version: 5
+Epoch: 128      Training Loss: 2.953377
+Number of training 128
+Pass rate:0.9222222222222223
+Loss : [[[190.72774]]]
+Train version: 5
+Test version: 5
+Epoch: 129      Training Loss: 3.499281
+Number of training 129
+Pass rate:0.9333333333333333
+Loss : [[[187.57356]]]
+Train version: 5
+Test version: 5
+Epoch: 130      Training Loss: 4.161530
+Number of training 130
+Pass rate:0.9444444444444444
+Loss : [[[186.17104]]]
+Train version: 5
+Test version: 5
+Epoch: 131      Training Loss: 4.655849
+Number of training 131
+Pass rate:0.9222222222222223
+Loss : [[[187.02559]]]
+Train version: 5
+Test version: 5
+Epoch: 132      Training Loss: 4.718253
+Number of training 132
+Pass rate:0.9222222222222223
+Loss : [[[189.01532]]]
+Train version: 5
+Test version: 5
+Epoch: 133      Training Loss: 4.272760
+Number of training 133
+Pass rate:0.9222222222222223
+Loss : [[[192.23575]]]
+Train version: 5
+Test version: 5
+Epoch: 134      Training Loss: 3.710211
+Number of training 134
+Pass rate:0.9333333333333333
+Loss : [[[195.12268]]]
+Train version: 5
+Test version: 5
+Epoch: 135      Training Loss: 3.130581
+Number of training 135
+Pass rate:0.9333333333333333
+Loss : [[[195.78075]]]
+Train version: 5
+Test version: 5
+Epoch: 136      Training Loss: 2.659398
+Number of training 136
+Pass rate:0.9333333333333333
+Loss : [[[195.41986]]]
+Train version: 5
+Test version: 5
+Epoch: 137      Training Loss: 2.380109
+Number of training 137
+Pass rate:0.9222222222222223
+Loss : [[[194.15529]]]
+Train version: 5
+Test version: 5
+Epoch: 138      Training Loss: 2.144147
+Number of training 138
+Pass rate:0.9222222222222223
+Loss : [[[196.41217]]]
+Train version: 5
+Test version: 5
+Epoch: 139      Training Loss: 2.031230
+Number of training 139
+Pass rate:0.9222222222222223
+Loss : [[[198.85297]]]
+Train version: 5
+Test version: 5
+Epoch: 140      Training Loss: 2.173171
+Number of training 140
+Pass rate:0.9222222222222223
+Loss : [[[202.10425]]]
+Train version: 5
+Test version: 5
+Epoch: 141      Training Loss: 2.610059
+Number of training 141
+Pass rate:0.9222222222222223
+Loss : [[[203.75262]]]
+Train version: 5
+Test version: 5
+Epoch: 142      Training Loss: 3.401990
+Number of training 142
+Pass rate:0.9222222222222223
+Loss : [[[199.93098]]]
+Train version: 5
+Test version: 5
+Epoch: 143      Training Loss: 4.260932
+Number of training 143
+Pass rate:0.9333333333333333
+Loss : [[[194.87123]]]
+Train version: 5
+Test version: 5
+Epoch: 144      Training Loss: 4.540630
+Number of training 144
+Pass rate:0.9444444444444444
+Loss : [[[192.89159]]]
+Train version: 5
+Test version: 5
+Epoch: 145      Training Loss: 4.418869
+Number of training 145
+Pass rate:0.9444444444444444
+Loss : [[[193.18602]]]
+Train version: 5
+Test version: 5
+Epoch: 146      Training Loss: 4.478377
+Number of training 146
+Pass rate:0.9222222222222223
+Loss : [[[193.31857]]]
+Train version: 5
+Test version: 5
+Epoch: 147      Training Loss: 4.289408
+Number of training 147
+Pass rate:0.9111111111111111
+Loss : [[[193.1859]]]
+Train version: 5
+Test version: 5
+Epoch: 148      Training Loss: 3.819830
+Number of training 148
+Pass rate:0.9222222222222223
+Loss : [[[193.09488]]]
+Train version: 5
+Test version: 5
+Epoch: 149      Training Loss: 3.171286
+Number of training 149
+Pass rate:0.9333333333333333
+Loss : [[[192.78362]]]
+Train version: 5
+Test version: 5
+Epoch: 150      Training Loss: 2.560384
+Number of training 150
+Pass rate:0.9333333333333333
+Loss : [[[191.99059]]]
+Train version: 5
+Test version: 5
+Epoch: 151      Training Loss: 2.142059
+Number of training 151
+Pass rate:0.9333333333333333
+Loss : [[[191.79095]]]
+Train version: 5
+Test version: 5
+Epoch: 152      Training Loss: 1.951174
+Number of training 152
+Pass rate:0.9333333333333333
+Loss : [[[193.37637]]]
+Train version: 5
+Test version: 5
+Epoch: 153      Training Loss: 2.008515
+Number of training 153
+Pass rate:0.9
+Loss : [[[199.1651]]]
+Train version: 5
+Test version: 5
+Epoch: 154      Training Loss: 2.306372
+Number of training 154
+Pass rate:0.9
+Loss : [[[207.98863]]]
+Train version: 5
+Test version: 5
+Epoch: 155      Training Loss: 2.851172
+Number of training 155
+Pass rate:0.9
+Loss : [[[213.24162]]]
+Train version: 5
+Test version: 5
+Epoch: 156      Training Loss: 3.271677
+Number of training 156
+Pass rate:0.9111111111111111
+Loss : [[[208.94371]]]
+Train version: 5
+Test version: 5
+Epoch: 157      Training Loss: 3.437355
+Number of training 157
+Pass rate:0.9222222222222223
+Loss : [[[203.42188]]]
+Train version: 5
+Test version: 5
+Epoch: 158      Training Loss: 3.443705
+Number of training 158
+Pass rate:0.9333333333333333
+Loss : [[[202.8751]]]
+Train version: 5
+Test version: 5
+Epoch: 159      Training Loss: 3.501509
+Number of training 159
+Pass rate:0.9111111111111111
+Loss : [[[203.58572]]]
+Train version: 5
+Test version: 5
+Epoch: 160      Training Loss: 3.578574
+Number of training 160
+Pass rate:0.9111111111111111
+Loss : [[[206.02414]]]
+Train version: 5
+Test version: 5
+Epoch: 161      Training Loss: 3.414256
+Number of training 161
+Pass rate:0.9222222222222223
+Loss : [[[203.06932]]]
+Train version: 5
+Test version: 5
+Epoch: 162      Training Loss: 3.034420
+Number of training 162
+Pass rate:0.9222222222222223
+Loss : [[[199.54385]]]
+Train version: 5
+Test version: 5
+Epoch: 163      Training Loss: 2.569307
+Number of training 163
+Pass rate:0.9333333333333333
+Loss : [[[195.8938]]]
+Train version: 5
+Test version: 5
+Epoch: 164      Training Loss: 2.205286
+Number of training 164
+Pass rate:0.9333333333333333
+Loss : [[[192.39635]]]
+Train version: 5
+Test version: 5
+Epoch: 165      Training Loss: 1.979912
+Number of training 165
+Pass rate:0.9333333333333333
+Loss : [[[191.15686]]]
+Train version: 5
+Test version: 5
+Epoch: 166      Training Loss: 1.961587
+Number of training 166
+Pass rate:0.9222222222222223
+Loss : [[[190.63599]]]
+Train version: 5
+Test version: 5
+Epoch: 167      Training Loss: 2.186313
+Number of training 167
+Pass rate:0.9111111111111111
+Loss : [[[192.11969]]]
+Train version: 5
+Test version: 5
+Epoch: 168      Training Loss: 2.594721
+Number of training 168
+Pass rate:0.9
+Loss : [[[194.69547]]]
+Train version: 5
+Test version: 5
+Epoch: 169      Training Loss: 3.152235
+Number of training 169
+Pass rate:0.9
+Loss : [[[200.01366]]]
+Train version: 5
+Test version: 5
+Epoch: 170      Training Loss: 3.785000
+Number of training 170
+Pass rate:0.9111111111111111
+Loss : [[[203.52158]]]
+Train version: 5
+Test version: 5
+Epoch: 171      Training Loss: 4.123154
+Number of training 171
+Pass rate:0.9333333333333333
+Loss : [[[206.576]]]
+Train version: 5
+Test version: 5
+Epoch: 172      Training Loss: 3.612871
+Number of training 172
+Pass rate:0.9333333333333333
+Loss : [[[207.39458]]]
+Train version: 5
+Test version: 5
+Epoch: 173      Training Loss: 2.851556
+Number of training 173
+Pass rate:0.9222222222222223
+Loss : [[[204.2219]]]
+Train version: 5
+Test version: 5
+Epoch: 174      Training Loss: 2.335564
+Number of training 174
+Pass rate:0.9222222222222223
+Loss : [[[200.93076]]]
+Train version: 5
+Test version: 5
+Epoch: 175      Training Loss: 1.997900
+Number of training 175
+Pass rate:0.9222222222222223
+Loss : [[[198.72824]]]
+Train version: 5
+Test version: 5
+Epoch: 176      Training Loss: 1.837306
+Number of training 176
+Pass rate:0.9222222222222223
+Loss : [[[194.57652]]]
+Train version: 5
+Test version: 5
+Epoch: 177      Training Loss: 1.774790
+Number of training 177
+Pass rate:0.9222222222222223
+Loss : [[[192.83429]]]
+Train version: 5
+Test version: 5
+Epoch: 178      Training Loss: 1.831587
+Number of training 178
+Pass rate:0.9222222222222223
+Loss : [[[193.57608]]]
+Train version: 5
+Test version: 5
+Epoch: 179      Training Loss: 2.059298
+Number of training 179
+Pass rate:0.9111111111111111
+Loss : [[[196.49142]]]
+Train version: 5
+Test version: 5
+Epoch: 180      Training Loss: 2.561336
+Number of training 180
+Pass rate:0.9
+Loss : [[[200.03018]]]
+Train version: 5
+Test version: 5
+Epoch: 181      Training Loss: 3.201761
+Number of training 181
+Pass rate:0.9
+Loss : [[[200.86975]]]
+Train version: 5
+Test version: 5
+Epoch: 182      Training Loss: 3.759906
+Number of training 182
+Pass rate:0.9
+Loss : [[[200.32278]]]
+Train version: 5
+Test version: 5
+Epoch: 183      Training Loss: 3.753082
+Number of training 183
+Pass rate:0.9111111111111111
+Loss : [[[197.72939]]]
+Train version: 5
+Test version: 5
+Epoch: 184      Training Loss: 3.070900
+Number of training 184
+Pass rate:0.9111111111111111
+Loss : [[[195.08322]]]
+Train version: 5
+Test version: 5
+Epoch: 185      Training Loss: 2.327868
+Number of training 185
+Pass rate:0.9
+Loss : [[[193.09708]]]
+Train version: 5
+Test version: 5
+Epoch: 186      Training Loss: 1.889005
+Number of training 186
+Pass rate:0.9
+Loss : [[[193.70169]]]
+Train version: 5
+Test version: 5
+Epoch: 187      Training Loss: 1.623012
+Number of training 187
+Pass rate:0.9222222222222223
+Loss : [[[194.10896]]]
+Train version: 5
+Test version: 5
+Epoch: 188      Training Loss: 1.579529
+Number of training 188
+Pass rate:0.9222222222222223
+Loss : [[[192.34966]]]
+Train version: 5
+Test version: 5
+Epoch: 189      Training Loss: 1.675207
+Number of training 189
+Pass rate:0.9111111111111111
+Loss : [[[191.59584]]]
+Train version: 5
+Test version: 5
+Epoch: 190      Training Loss: 1.806267
+Number of training 190
+Pass rate:0.9111111111111111
+Loss : [[[193.96265]]]
+Train version: 5
+Test version: 5
+Epoch: 191      Training Loss: 2.096013
+Number of training 191
+Pass rate:0.9111111111111111
+Loss : [[[195.40819]]]
+Train version: 5
+Test version: 5
+Epoch: 192      Training Loss: 2.572735
+Number of training 192
+Pass rate:0.9111111111111111
+Loss : [[[194.89902]]]
+Train version: 5
+Test version: 5
+Epoch: 193      Training Loss: 3.046974
+Number of training 193
+Pass rate:0.9
+Loss : [[[194.92104]]]
+Train version: 5
+Test version: 5
+Epoch: 194      Training Loss: 3.340422
+Number of training 194
+Pass rate:0.8888888888888888
+Loss : [[[199.63902]]]
+Train version: 5
+Test version: 5
+Epoch: 195      Training Loss: 3.269199
+Number of training 195
+Pass rate:0.9
+Loss : [[[204.79375]]]
+Train version: 5
+Test version: 5
+Epoch: 196      Training Loss: 2.786257
+Number of training 196
+Pass rate:0.9
+Loss : [[[205.88002]]]
+Train version: 5
+Test version: 5
+Epoch: 197      Training Loss: 2.101775
+Number of training 197
+Pass rate:0.9111111111111111
+Loss : [[[205.0123]]]
+Train version: 5
+Test version: 5
+Epoch: 198      Training Loss: 1.612804
+Number of training 198
+Pass rate:0.9
+Loss : [[[203.07103]]]
+Train version: 5
+Test version: 5
+Epoch: 199      Training Loss: 1.394611
+Number of training 199
+Pass rate:0.9
+Loss : [[[203.11102]]]
+Train version: 5
+Test version: 5
+Epoch: 200      Training Loss: 1.441815
+Number of training 200
+Pass rate:0.9
+Loss : [[[201.28008]]]
+Train version: 5
+Test version: 5

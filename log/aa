@@ -1,0 +1,139 @@
+Epoch: 0        Training Loss: 0.035758
+Number of training 0
+Pass rate:0.9263157894736842
+Train version: 3
+Test version: 3
+Epoch: 1        Training Loss: 0.027361
+Number of training 1
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 2        Training Loss: 0.024727
+Number of training 2
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 3        Training Loss: 0.022518
+Expect out score 12:37.4 13:46.0
+Wrong out score: [0.27559933] [0.1603078]
+Expect out score 14:85.715 15:81.495
+Wrong out score: [0.84784204] [0.8557446]
+Expect out score 16:91.177 17:60.085
+Wrong out score: [0.5086638] [0.7819441]
+Expect out score 44:36.487 45:14.525
+Wrong out score: [0.4911007] [0.5933573]
+Expect out score 138:89.13 139:78.805
+Wrong out score: [0.67402035] [0.78859305]
+Expect out score 182:60.8 183:67.75
+Wrong out score: [0.6070055] [0.57849216]
+Number of training 3
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 4        Training Loss: 0.021120
+Expect out score 12:37.4 13:46.0
+Wrong out score: [0.24199374] [0.15645169]
+Expect out score 14:85.715 15:81.495
+Wrong out score: [0.9240379] [0.9331782]
+Expect out score 16:91.177 17:60.085
+Wrong out score: [0.5602614] [0.84675425]
+Expect out score 44:36.487 45:14.525
+Wrong out score: [0.51677155] [0.6399518]
+Expect out score 138:89.13 139:78.805
+Wrong out score: [0.75708884] [0.8572227]
+Expect out score 182:60.8 183:67.75
+Wrong out score: [0.64149] [0.6050603]
+Number of training 4
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 5        Training Loss: 0.019539
+Expect out score 12:37.4 13:46.0
+Wrong out score: [0.23598251] [0.184648]
+Expect out score 14:85.715 15:81.495
+Wrong out score: [0.9664561] [0.98526055]
+Expect out score 16:91.177 17:60.085
+Wrong out score: [0.5983342] [0.90454835]
+Expect out score 44:36.487 45:14.525
+Wrong out score: [0.5513238] [0.6618166]
+Expect out score 138:89.13 139:78.805
+Wrong out score: [0.8317762] [0.9108096]
+Expect out score 182:60.8 183:67.75
+Wrong out score: [0.67531407] [0.6332219]
+Number of training 5
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 6        Training Loss: 0.018117
+Expect out score 12:37.4 13:46.0
+Wrong out score: [0.20810355] [0.18658239]
+Expect out score 14:85.715 15:81.495
+Wrong out score: [1.0515069] [1.0638374]
+Expect out score 16:91.177 17:60.085
+Wrong out score: [0.6321466] [0.97748697]
+Expect out score 44:36.487 45:14.525
+Wrong out score: [0.6014724] [0.6898489]
+Expect out score 138:89.13 139:78.805
+Wrong out score: [0.9071475] [0.953205]
+Expect out score 182:60.8 183:67.75
+Wrong out score: [0.70375633] [0.66139424]
+Number of training 6
+Pass rate:0.9368421052631579
+Train version: 3
+Test version: 3
+Epoch: 7        Training Loss: 0.016728
+Expect out score 14:85.715 15:81.495
+Wrong out score: [1.0769862] [1.0918413]
+Expect out score 16:91.177 17:60.085
+Wrong out score: [0.6630731] [1.0316237]
+Expect out score 44:36.487 45:14.525
+Wrong out score: [0.5898278] [0.6710554]
+Expect out score 138:89.13 139:78.805
+Wrong out score: [0.9571019] [0.98375654]
+Expect out score 182:60.8 183:67.75
+Wrong out score: [0.7234443] [0.6854531]
+Number of training 7
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 8        Training Loss: 0.015462
+Expect out score 14:85.715 15:81.495
+Wrong out score: [1.1094201] [1.115289]
+Expect out score 16:91.177 17:60.085
+Wrong out score: [0.6957926] [1.0918097]
+Expect out score 44:36.487 45:14.525
+Wrong out score: [0.6155689] [0.6933528]
+Expect out score 138:89.13 139:78.805
+Wrong out score: [1.0136452] [1.014584]
+Expect out score 182:60.8 183:67.75
+Wrong out score: [0.7637943] [0.7334373]
+Number of training 8
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3
+Epoch: 9        Training Loss: 0.014463
+Expect out score 16:91.177 17:60.085
+Wrong out score: [0.68053395] [1.1202389]
+Expect out score 44:36.487 45:14.525
+Wrong out score: [0.6579111] [0.682863]
+Expect out score 182:60.8 183:67.75
+Wrong out score: [0.7711452] [0.7510099]
+Number of training 9
+Pass rate:0.968421052631579
+Train version: 3
+Test version: 3
+Epoch: 10       Training Loss: 0.013709
+Expect out score 16:91.177 17:60.085
+Wrong out score: [0.7235087] [1.1536291]
+Expect out score 44:36.487 45:14.525
+Wrong out score: [0.6659289] [0.66814584]
+Expect out score 80:95.418 81:72.635
+Wrong out score: [0.9409918] [0.9411643]
+Expect out score 164:70.222 165:48.56
+Wrong out score: [0.77475685] [0.7803321]
+Expect out score 182:60.8 183:67.75
+Wrong out score: [0.7864111] [0.7799569]
+Number of training 10
+Pass rate:0.9473684210526315
+Train version: 3
+Test version: 3

@@ -12,5 +12,4 @@
 
 # python /public/home/cs177h/zhujl/project/MLP.py
 # python /public/home/cs177h/zhujl/project/verify.py
-# python /public/home/cs177h/zhujl/project/src/transformer.py
-python /public/home/cs177h/zhujl/project/CNN.py
+python /public/home/cs177h/zhujl/project/src/transformer.py
