@@ -50,12 +50,8 @@ class CNN(nn.Module):
 
     def forward(self, x):
         x = self.pool1(F.relu(self.bn1(self.conv1(x))))
-        # x = self.fc_drop(x)
         x = self.pool2(F.relu(self.bn2(self.conv2(x))))
-        # x = self.fc_drop(x)
-        # print(x.shape)
         x = self.pool3(F.relu(self.fc_drop(self.conv3(x))))
-        # x = self.fc_drop(x)
         x = torch.flatten(x, 2)
         x = self.fc1(x)
         return x

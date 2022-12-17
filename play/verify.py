@@ -13,7 +13,7 @@ import sys, getopt
 TRAIN_VERSION = 3
 TEST_VERSION = 3
 MODEL_PATH = "../src/model/version3/3_324.pth"
-INPUT_PATH = "./data_change_transform/"
+INPUT_PATH = "./hand_transform/"
 METHOD = "MLP"
 PWC = True
 CN2 = False
@@ -253,21 +253,21 @@ if __name__ == "__main__":
         x = 0
         if METHOD == "MLP":
             while x < len(X):
-                y=x+1
+                # y=x+1
                 out1 = model(torch.tensor(X[x]).float())
-                out2 = model(torch.tensor(X[y]).float())
+                # out2 = model(torch.tensor(X[y]).float())
                 # print(data[x] + ": " + str(float(out1)))
                 # print(data[y] + ": " + str(float(out2)))
                 
                 dict[data[x]] = float(out1)
-                dict[data[y]] = float(out2)
+                # dict[data[y]] = float(out2)
                       
                 # train_out = (out1 >= out2)
                 # test_out = (Y[x] >= Y[y])
                 # if ((train_out and test_out) or (not train_out and not test_out)):
                 #     passn += 1
                 # total += 1
-                x += 2
+                x += 1
         else:
             while x < len(X):
                 y = x + 1

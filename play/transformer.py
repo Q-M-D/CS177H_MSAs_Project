@@ -6,8 +6,8 @@ import numpy as np
 
 
 VERSION = 3
-DATA_PATH = './data_order/'
-OUTPUT_PATH = './data_order_transform/'
+DATA_PATH = './hand/'
+OUTPUT_PATH = './hand_transform/'
 
 
 def translate(address):
